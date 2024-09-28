@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Kontakta oss"
     url: /contact/
+  - title: "Home"
+    url: "/"
   #  - title: "Sample Collections"
 #    url: /collection-archive/
   #- title: "Sitemap"
