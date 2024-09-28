@@ -3,7 +3,7 @@ title: Kontakta oss
 permalink: /contact/
 header: /assets/images/typewriter.jpg
 defaults:
-  # _pages
+   _pages
   - scope:
       path: ""
       type: pages
