@@ -3,6 +3,7 @@ title: Om oss
 permalink: /about/
 layout: single
 header: /assets/images/typewriter.png
+author_profile: true
 ---
 Sakiinlaq AB är ett företag som tillhandåller språktjänster bland annat:
 - tolkning mellan svenska och somaliska
