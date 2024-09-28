@@ -1,8 +1,8 @@
 ---
-#title: Om oss
-#permalink: /about/
+title: Om oss
+permalink: /about/
 #layout: single
-#header: /assets/images/typewriter.png
+header: /assets/images/typewriter.png
 defaults:
   # _pages
   - scope:
