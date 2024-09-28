@@ -1,12 +1,12 @@
 # main links
 main:
+  - title: "Home"
+    url: "/"
   - title: "Om oss"
     url: /about/
   - title: "Kontakta oss"
     url: /contact/
-  - title: "Home"
-    url: "/"
-  #  - title: "Sample Collections"
+ #  - title: "Sample Collections"
 #    url: /collection-archive/
   #- title: "Sitemap"
   #   url: /sitemap/
