@@ -1,7 +1,7 @@
 ---
 title: Om oss
 permalink: /about/
-layout: splash
+layout: single
 header: /assets/images/typewriter.png
 ---
 Sakiinlaq AB är ett företag som tillhandåller språktjänster bland annat:
