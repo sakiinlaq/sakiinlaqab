@@ -3,9 +3,9 @@ main:
   - title: "Hem"
     url: "/"
   - title: "Om oss"
-    url: /om-oss/
+    url: /about/
   - title: "Kontakta oss"
-    url: /kontakta-oss/
+    url: /contact/
  #  - title: "Sample Collections"
 #    url: /collection-archive/
   #- title: "Sitemap"
