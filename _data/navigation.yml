@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Hem"
     url: "/"
   - title: "Om oss"
-    url: /about/
+    url: /om-oss/
   - title: "Kontakta oss"
-    url: /contact/
+    url: /kontakta-oss/
  #  - title: "Sample Collections"
 #    url: /collection-archive/
   #- title: "Sitemap"
