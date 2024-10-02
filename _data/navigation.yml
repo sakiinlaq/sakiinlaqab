@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Hem"
-    url: "/"
+    url: "home"
   - title: "Om oss"
     url: /about/
   - title: "Kontakta oss"
