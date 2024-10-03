@@ -1,6 +1,6 @@
 ---
 title: Översättning
-header: /assets/images/teaser.png
+header: /assets/images/translation.png
 ---
 Sakiinlaq AB erbjuder översättning.
 
