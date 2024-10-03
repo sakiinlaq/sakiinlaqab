@@ -1,5 +1,5 @@
 ---
 title: Förlag
-header: /assets/images/teaser.png
+header: /assets/images/publishing.jpg
 ---
 Sakiinlaq AB erbjuder tjänster kring bokutgivning.
