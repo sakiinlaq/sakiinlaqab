@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Ahmed Sheikh"
   avatar           : https://pbs.twimg.com/profile_images/927280578692567042/BS5Ptp5a_400x400.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Grundare för Sakiinlaq AB, <br>Tolk, översättare och förläggare"
+  bio              : "Grundare för Sakiinlaq AB <br>Tolk, översättare och förläggare"
   location         : "Göteborg"
-  email            : mailto:sakiinlaq@hotmail.com
+  email            : sakiinlaq@hotmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -261,7 +261,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -269,7 +269,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
 
 
