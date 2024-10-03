@@ -326,9 +326,9 @@ defaults:
       show_date: false
   # _pages
   - scope:
-    path: _pages
-    type: pages
-  value:
-    layout: single
-    author_profile: true
+      path: _pages
+      type: pages
+    value:
+      layout: single
+      author_profile: true
 
