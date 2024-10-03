@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "sv-SE"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sakiinlaq AB"
-title_separator          : "/"
+title_separator          : "-"
 subtitle                 :
 name                     : "Ahmed Sheikh"
 description              : "Ditt företag för alla dina språktjänster."
@@ -26,10 +26,10 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 
+logo                     : /assets/images/teaser.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 300
 enable_copy_code_button  : # true, false (default)
 copyright                : Sakiinlaq AB # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Ahmed Sheikh"
   avatar           : https://pbs.twimg.com/profile_images/927280578692567042/BS5Ptp5a_400x400.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "VD för Sakiinlaq AB, <br> Tolk, översättare och förläggare"
+  bio              : "Grundare för Sakiinlaq AB, <br>Tolk, översättare och förläggare"
   location         : "Göteborg"
-  email            : sakiinlaq@hotmail.com
+  email            : mailto:sakiinlaq@hotmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -326,7 +326,7 @@ defaults:
       show_date: false
   # _pages
   - scope:
-      path: _pages
+      path: "_pages"
       type: pages
     value:
       layout: single
