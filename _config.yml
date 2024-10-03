@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Ahmed Sheikh"
   avatar           : https://pbs.twimg.com/profile_images/927280578692567042/BS5Ptp5a_400x400.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Grundare för Sakiinlaq AB <br>Tolk, översättare och förläggare"
+  bio              : "Grundare av Sakiinlaq AB <br>Tolk, översättare och förläggare"
   location         : "Göteborg"
   email            : sakiinlaq@hotmail.com
   links:
@@ -314,6 +314,7 @@ collection:
   portfolio: 
     output: true
     permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -335,7 +336,7 @@ defaults:
     value:
       layout: single
       author_profile: true
-# _portfolio 
+  # _portfolio 
   - scope:
       path: ""
       type: portfolio
