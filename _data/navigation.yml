@@ -2,6 +2,8 @@
 main:
   - title: "Hem"
     url: /
+  - title: "Tjänster"
+    url: /portfolio/
   - title: "Om oss"
     url: /about/
   - title: "Kontakta oss"
