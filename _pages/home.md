@@ -6,7 +6,7 @@ header: /assets/images/teeb.png
 feature_row:
     - image_path: /assets/images/tolkning.jpg
       title : "Tolkning"
-    - image_path: /assets/images/translation.jpg
+    - image_path: /assets/images/translation.png
       title: "Översättning"
 ---
 
