@@ -1,7 +1,7 @@
 ---
 title: Om oss
 permalink: /about/
-layout: archibe
+layout: archive
 header: /assets/images/typewriter.png
 author_profile: true
 ---
