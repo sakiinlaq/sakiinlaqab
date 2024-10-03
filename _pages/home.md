@@ -8,9 +8,9 @@ feature_row:
       title : "Tolkning"
     - image_path: /assets/images/translation.jpg
       title: "Översättning"
-
-
 ---
+
+{% include feature_row %}
 
 # Tolkning
 Sakiinlaq AB erbjuder tolkning för privata personer, företag och myndigheter,
