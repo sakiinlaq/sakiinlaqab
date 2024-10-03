@@ -9,6 +9,9 @@ feature_row:
     - image_path: /assets/images/translation.png
       title: "Översättning"
 ---
+sasas
+sasa
+
 
 {% include feature_row %}
 
