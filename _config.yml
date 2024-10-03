@@ -309,7 +309,11 @@ compress_html:
   ignore:
     envs: development
 
-
+# Collections
+collection:
+  portfolio: 
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
