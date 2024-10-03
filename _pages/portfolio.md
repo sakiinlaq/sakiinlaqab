@@ -8,4 +8,3 @@ classes: wide
 ---
 
 Sakiinlaq AB erbjuder bland annat:
-
