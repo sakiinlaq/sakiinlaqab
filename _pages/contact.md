@@ -2,7 +2,7 @@
 title: Kontakta oss
 permalink: /contact/
 header: /assets/images/typewriter.jpg
-#layout: single
+layout: single
 author_profile: true
 ---
 <!---
