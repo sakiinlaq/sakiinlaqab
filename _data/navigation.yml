@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Hem"
-    url: /
   - title: "Tjänster"
     url: /portfolio/
   - title: "Om oss"
