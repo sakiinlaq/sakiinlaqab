@@ -7,8 +7,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/teeb.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> Se tjänster"
+      url: "/portfolio/"
 feature_row:
     - image_path: /assets/images/tolkning.jpg
       title : "Tolkning"
