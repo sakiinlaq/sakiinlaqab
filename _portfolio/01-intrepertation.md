@@ -1,6 +1,7 @@
 ---
 title: Tolkning
 header: /assets/images/tolkning.jpg
+author_profile: true
 ---
 Sakiinlaq AB erbjuder tolkning.
 
