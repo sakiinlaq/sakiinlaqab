@@ -1,15 +1,30 @@
 ---
 title: Översättning
+layout: single
+toc: true
 header: 
-    image: /assets/images/translation.png
-    teaser: /assets/images/translation.png
+    image: /assets/images/translation.jpg
+    teaser: /assets/images/translation.jpg
+
 ---
-Sakiinlaq AB erbjuder översättning.
+Sakiinlaq AB erbjuder översättning av skriven text och ljud med eller utan rörlig bild.
 
-Faucibus eu justo felis nec ex, nulla felis, tristique nulla. Bibendum consectetur neque, magnis vitae, eu in vestibulum interdum habitasse. Nullam lectus lectus, lectus lectus pharetra nisi, imperdiet etiam amet. Massa tortor magna ligula id eget vel, arcu amet eros. Pellentesque suscipit eros in est eu aliquam laoreet porta, nibh.
+## Översättning av dokument
+Vi översätter främst till *somaliska* från svenska och engelska, men också till svenska från *somaliska*.
 
-Magna nibh feugiat montes, dignissim nunc praesent vitae eleifend duis. Amet ut dictumst morbi nam diam, et convallis, suspendisse pretium. Bibendum suscipit in nunc, justo dui eu aliquam magna ullamcorper. Bibendum, magna, posuere sed faucibus at sed dui vivamus erat. Tempor massa proin sed urna nunc curabitur, eget magna tortor.
+Vi leverera översättning som pdf. Dokument som är skickat i word kan vi se till att orginal formateringen är även bibhållen i översättningen.
 
-Vivamus et, varius faucibus finibus massa nullam fermentum condimentum arcu. Efficitur lorem pharetra lobortis hac, aliquam nunc, erat nunc dignissim. Maximus vitae porttitor, in aliquet, est vel ornare sem eu. Urna sem, vestibulum pellentesque, euismod nam proin diam velit pellentesque. Convallis quisque, efficitur dapibus habitasse nulla at massa, pellentesque eget.
+## Översättning av ljud och video
 
-Dui sit, elit elementum ultricies finibus, tristique imperdiet vel platea. Nunc, ac velit elit eros pellentesque vel, ante elit penatibus. Tincidunt, et nulla fermentum placerat amet phasellus dolor condimentum praesent. Ac faucibus nisi bibendum odio, amet amet nulla sem, sed. Proin diam, lectus lectus pulvinar condimentum eu, in mi cursus.
+Sakiinlaq AB översätter gärna från en ljudinspelning eller video. För att översätta det talade gör vi alltid en trankibering av inspelning och sedan översätter den.   
+
+När det gäller **videoklippet** kan leveransen vara:
+- Inbränt undertext av översättningen
+- Tvåspårkigt inbränt undertext där språken är i olika färger
+    - Transkiberingen på en färg
+    - Översättningen på en annan färg.
+
+För **ljudfilen** kan vi leverera:
+- pdf med tidstämpel
+- inbrät undertext på en enfärgäd bakgrund och/eller en SRT-fil
+- Tvåspårkig inbränt undertext där språken är i olika färger.
