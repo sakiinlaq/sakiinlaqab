@@ -2,11 +2,13 @@
 main:
   - title: "Tjänster"
     url: /portfolio/
+  - title: Blog
+    url: /blog/
   - title: "Om oss"
     url: /about/
   - title: "Kontakta oss"
     url: /contact/
- #  - title: "Sample Collections"
+#  - title: "Sample Collections"
 #    url: /collection-archive/
   #- title: "Sitemap"
   #   url: /sitemap/

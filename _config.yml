@@ -21,9 +21,9 @@ title                    : "Sakiinlaq AB"
 title_separator          : "-"
 subtitle                 :
 name                     : "Ahmed Sheikh"
-description              : "Ditt företag för alla dina språktjänster."
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/teaser.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 
@@ -325,10 +325,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: false 
-      comments: false # true
-      share: false
+      comments: true # true
+      share: true
       related: false
-      show_date: false
+      show_date: true
   # _pages
   - scope:
       path: "_pages"

@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home 
 permalink: /
 hidden: true
 header: /assets/images/teeb.jpg
@@ -7,13 +7,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/teeb.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Se tjänster"
+    - label: <i class="fa-solid fa-circle-info"></i> Se tjänster
       url: "/portfolio/"
-feature_row:
-    - image_path: /assets/images/tolkning.jpg
-      title : "Tolkning"
-    - image_path: /assets/images/translation.png
-      title: "Översättning"
 ---
 
 {% include feature_row %}
