@@ -1,14 +1,12 @@
 ---
 layout: home 
 permalink: /
-hidden: false
+hidden: true
 author_profile: true
 header: /assets/images/teeb.jpg
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#4e616c"
   overlay_image: /assets/images/teeb.jpg
   actions:
 ---
-
-
 
