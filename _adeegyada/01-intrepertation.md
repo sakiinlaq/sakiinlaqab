@@ -1,5 +1,5 @@
 ---
-title: Tolkning
+title: Turjuimidda hadalka
 header:
     overlay_image: /assets/images/tolkning.jpg
     image: /assets/images/tolkning.jpg
@@ -7,5 +7,5 @@ header:
 author_profile: true
 
 ---
-Sakiinlaq AB erbjuder tolkning.
+Sakiinlaq AB waxay bixisaa adeegga turjumidda wadahadalka.
 

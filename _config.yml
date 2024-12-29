@@ -309,11 +309,22 @@ compress_html:
   ignore:
     envs: development
 
+
+language_default: sv
 # Collections
 collections:
   tjanster: 
     output: true
     permalink: /:collection/:path/
+  adeegyada:
+    output: true
+    permalink: /:collection/:path/
+  sv:
+    output: true
+    permalink: /:collection/:slug/
+  so:
+    output: true
+    permalink: /:collection/:slug/
 
 # Defaults
 defaults:
@@ -329,14 +340,16 @@ defaults:
       share: false
       related: false
       show_date: true
+
   # _pages
   - scope:
       path: "_pages"
       type: pages
-    value:
+    values:
       layout: single
       author_profile: true
-  # _tjanster
+
+  # _tjanster och adeegyada
   - scope:
       path: "_tjanster"
       type: tjanster
@@ -344,3 +357,21 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  - scope:
+      path: "_adeegyada"
+      type: adeegyada
+    values: 
+      layout: single
+      author_profile: true
+      share: false
+ # _sv och so
+  - scope:
+      path:
+      type: "sv"
+    values:
+      layout: single
+  - scope:
+      path:
+      type: "so"
+    values:
+      layout: single

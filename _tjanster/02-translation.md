@@ -2,12 +2,15 @@
 title: Översättning
 layout: single
 toc: true
+toc_title: "I sidan"
 header: 
+    overlay_image: /assets/images/translation.jpg
     image: /assets/images/translation.jpg
     teaser: /assets/images/translation.jpg
 
 ---
 Sakiinlaq AB erbjuder översättning av skriven text och ljud med eller utan rörlig bild.
+
 
 ## Översättning av dokument
 Vi översätter främst till:
@@ -16,7 +19,7 @@ Vi översätter främst till:
 
 Översättningen kan levereras som pdf. Dokument som är skickat i word kan vi se till att orginal formateringen är även bibhållen i översättningen.
 
-## Översättning av ljud och video
+## Översättning (undertexting) av ljud och video
 
 Sakiinlaq AB översätter gärna från en ljudinspelning eller video. För att översätta det talade gör vi alltid en trankibering av inspelning och sedan översätter den.   
 

@@ -12,4 +12,4 @@ Sakiinlaq AB är ett företag som tillhandåller språktjänster bland annat:
 - Översättning från svenska till somaliska och från somaliska till somaliska.
 - Korrekturläsning, transkibering, med mera.
 -->
-Sakiinlaq AB är grundad 2023.
+Sakiinlaq AB grundades 2023.

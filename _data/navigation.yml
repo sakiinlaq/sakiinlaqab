@@ -8,6 +8,8 @@ main:
     url: /about/
   - title: "Kontakta oss"
     url: /contact/
+  - title: "Adeegyada"
+    url: /adeegyada/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
   #- title: "Sitemap"
