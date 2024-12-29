@@ -310,7 +310,6 @@ compress_html:
     envs: development
 
 
-language_default: sv
 # Collections
 collections:
   tjanster: 
@@ -319,12 +318,6 @@ collections:
   adeegyada:
     output: true
     permalink: /:collection/:path/
-  sv:
-    output: true
-    permalink: /:collection/:slug/
-  so:
-    output: true
-    permalink: /:collection/:slug/
 
 # Defaults
 defaults:
@@ -340,7 +333,6 @@ defaults:
       share: false
       related: false
       show_date: true
-
   # _pages
   - scope:
       path: "_pages"
@@ -348,7 +340,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
   # _tjanster och adeegyada
   - scope:
       path: "_tjanster"
@@ -365,13 +356,13 @@ defaults:
       author_profile: true
       share: false
  # _sv och so
-  - scope:
-      path:
-      type: "sv"
-    values:
-      layout: single
-  - scope:
-      path:
-      type: "so"
-    values:
-      layout: single
+ #  - scope:
+ #    path:
+ #    type: "sv"
+ #  values:
+ #    layout: single
+ #- scope:
+ #    path:
+ #    type: "so"
+ #  values:
+ #    layout: single
