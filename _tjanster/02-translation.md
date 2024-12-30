@@ -1,5 +1,6 @@
 ---
 title: Översättning
+tagline: ""
 layout: single
 toc: true
 toc_title: "I sidan"

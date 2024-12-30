@@ -13,3 +13,6 @@ Sakiinlaq AB är ett företag som tillhandåller språktjänster bland annat:
 - Korrekturläsning, transkibering, med mera.
 -->
 Sakiinlaq AB grundades 2023.
+
+# Nagu saabsan
+Sakiinlaq AB waxaa la aasaasay 2023

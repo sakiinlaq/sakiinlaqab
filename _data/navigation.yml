@@ -2,15 +2,15 @@
 main:
   - title: "Tjänster"
     url: /tjanster/
+  - title: "Adeegyada"
+    url: /adeegyada/
   - title: Blog
     url: /blog/
   - title: "Om oss"
     url: /about/
   - title: "Kontakta oss"
     url: /contact/
-  - title: "Adeegyada"
-    url: /adeegyada/
-#  - title: "Sample Collections"
+  #  - title: "Sample Collections"
 #    url: /collection-archive/
   #- title: "Sitemap"
   #   url: /sitemap/

@@ -1,5 +1,6 @@
 ---
-title: Turjuimidda hadalka
+title: Turjumidda hadalka
+tagline: "" # Qari title on overlay image
 header:
     overlay_image: /assets/images/tolkning.jpg
     image: /assets/images/tolkning.jpg

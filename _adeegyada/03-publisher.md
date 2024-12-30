@@ -1,5 +1,6 @@
 ---
 title: Daabicid
+tagline: ""
 layout: single
 header: 
     image: /assets/images/publishing.jpg

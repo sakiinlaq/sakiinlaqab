@@ -1,14 +1,15 @@
 ---
 title: Turjumidda qoraalka
+tagline: "" #qari
 layout: single
 toc: true
 header: 
     overlay_image: /assets/images/translation.jpg
-    image: /assets/images/translation.jpg
     teaser: /assets/images/translation.jpg
 
 ---
-Sakiinlaq AB waxay bixisaa adeegga turjumidda qoraalka iyo codadka leh ama la' muuqaal.
+
+Sakiinlaq AB waxay bixisaa adeegga turjumidda qoraalka, sidoo kale codadka leh ama la' muuqaal.
 
 
 
@@ -24,16 +25,12 @@ Turjumidda waxaan ku soo gubinnaa pdf. Qoraallada lagu soo gudbiyo Word waxaan k
 
 Sakiinlaq AB waxay tutjumi karta codadka iyo muuqaallada. Si aan u turjunna hadalka, waxaan samaynaa taraniskiribshanka codka duuban oo kaddib ayaan turjunnaa.
 
-Marka fiidiyowgu yahay, waxaan shaqada ku soo gudbin karnaa:
+Marka **fiidiyow** yahay, waxaan shaqada ku soo gudbin karnaa:
 - Faylka SRT, txt, SSA 
 - Ku gubi karnaa turjumiida.
 - Subtitle oo laba afoole ah oo af kastaa midab u gaar ah leeyahay.
   - Taraniskiribshanka oo midab ah
   - Turjumiida oo midab kale ah
-
-
-
-    - Översättningen på en annan färg.
 
 
 Balse **codka** waxaan ku soo gudbin karnaa:
