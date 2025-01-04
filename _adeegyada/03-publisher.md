@@ -1,5 +1,5 @@
 ---
-title: Daabicid
+title: Buug soosaarid
 tagline: ""
 layout: single
 header: 

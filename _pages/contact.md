@@ -2,13 +2,12 @@
 title: Kontakta oss
 permalink: /contact/
 header:
-  overlay_image: /assets/images/contact-us.jpg
-  caption: "Bild: [Pixabay](https://pixabay.com/sv/photos/kontakta-oss-e-post-kontakt-f%C3%B6retag-2418235/)"
+  image: /assets/images/contact-us.jpg
 layout: single
 author_profile: true
 ---
 
-För offert och förfrågningar kontakta oss på sakiinlaq(@)hotmail.com
+För offert och förfrågningar kontakta oss på sakiinlaq(@)hotmail.com aa
 
 # Nala soo xiriir
 
