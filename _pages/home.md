@@ -1,7 +1,7 @@
 ---
 title: Sakiinlaq AB
 layout: splash 
-excerpt: Hem till språkligtjänster i och kring somaliska.<br> *Hoyga adeegyada la xiriira afka Soomaaliga*.
+excerpt: Hem till språktjänster i och kring somaliska.<br> *Hoyga adeegyada luqadda ee la xiriira afka Soomaaliga*.
 
 permalink: /
 header:
