@@ -8,5 +8,5 @@ header:
 author_profile: true
 
 ---
-Sakiinlaq AB waxay bixisaa adeegga turjumidda wadahadalka.
+Sakiinlaq AB waxay bixisaa adeegga turjumidda afk ah.
 
