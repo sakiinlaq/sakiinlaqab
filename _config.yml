@@ -318,6 +318,10 @@ collections:
   adeegyada:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+collections_dir: collections
 
 # Defaults
 defaults:
@@ -341,7 +345,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _tjanster och adeegyada
+  # _tjanster och adeegyada och portfolio
   - scope:
       path: "_tjanster"
       type: tjanster
@@ -356,14 +360,10 @@ defaults:
       layout: single
       author_profile: true
       share: false
- # _sv och so
- #  - scope:
- #    path:
- #    type: "sv"
- #  values:
- #    layout: single
- #- scope:
- #    path:
- #    type: "so"
- #  values:
- #    layout: single
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values: 
+      layout: splash
+      author_profile: true
+      share: false

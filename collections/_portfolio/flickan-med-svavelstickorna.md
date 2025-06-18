@@ -1,8 +1,9 @@
 ---
 title: Flickan med svavelstickorna
-published: false
+permalink: /flickan-med-svavelstickorna/
+tagline: "" #qari
+layout: splash
 ---
-Det var så förskräckligt kallt. Det snöade och kvällens mörker sänkte sig över staden. Det var också den sista kvällen på året. Nyårsaftonen. I denna köld och mörker gick en liten fattig flicka på gatan. Hon hade bart huvud och nakna fötter. Då hon gick hemifrån hade hon haft tofflor på sig. Men inte hade det hjälpt. Det var hennes mors stora tofflor. De var så stora att hon tappade dem när hon skyndade sig över gatan. Den ena toffeln kunde hon inte hitta. Den andra sprang en pojke bort med. Han sa att han kunde använda den till vagga då han själv skulle få barn.
 
 Där gick nu den lilla flickan på de nakna små fötterna röda och blå av köld. I ett gammalt förkläde hade hon svavelstickor, och en bunt bar hon i handen. Det var ingen som hade köpt något av henne under hela dagen. Hon var hungrig och frusen. Där gick hon och såg så förtvivlad ut, den lilla stackaren. Snöflingorna föll i hennes långa, gula hår, som lockade sig så vackert kring nacken, men den prydnaden tänkte hon inte på. Ut från alla fönster lyste ljusen, och så luktade det så gott av gåsstek där ute på gatan; det var ju nyårsafton, ja, det tänkte hon på.
 
@@ -21,4 +22,10 @@ Hon strök åter en stryksticka mot muren; den lyste runt omkring, och i skenet 
 — Mormor! ropade den lilla. Tag mig med dig! Jag vet att du är borta, då strykstickan slocknar, borta liksom den varma kaminen, den präktiga gåssteken och den stora, härliga
 julgranen! Och hon strök hastigt eld på alla strykstickorna, som var kvar i bunten. Hon ville riktigt hålla kvar mormor; och strykstickorna lyste med sådan glans, att det var ljusare än på ljusa dagen. Mormor hade aldrig förr varit så vacker, så stor; hon lyfte den lilla flickan upp på sin arm, och de flög i glans och glädje, så högt, så högt; och där fans ingen köld, ingen hunger, ingen ångest — de var hos Gud.
 
-Men i hörnet vid huset satt i den kalla morgonstunden den lilla flickan med röda kinder, med leende kring munnen — död, ihjälfrusen den sista aftonen på det gamla året. Nyårsmorgonen gick upp över det lilla liket, som satt med strykstickorna, av vilka en bunt var nästan uppbränd. Hon har velat värma sig, sade man; ingen visste vad vackert hon hade sett, i vilken glans hon med gamla mormor hade gått in till nyårsglädje.
+Men i hörnet vid huset satt i den kalla morgonstunden den lilla flickan med röda kinder, med leende kring munnen — död, ihjälfrusen den sista aftonen på det gamla året. Nyårsmorgonen gick upp över det lilla liket, som satt med strykstickorna, av vilka en bunt var nästan uppbränd. Hon har velat värma sig, sade man; ingen visste vad vackert hon hade sett, i vilken glans hon med gamla mormor hade gått in till nyårsglädje."
+- image_path: /assets/images/gabadhii-taraqa.png
+image_caption: "Sawir: Andersen, Hans Christian. Sagor och berättelser. Linnströms, 1877."
+alt: "Gabadhii taraqa"
+title: "Gabadhii taraqa"
+excerpt: "Waxaa jiray qabow daran. Baraf ayaa da'ay oo habeenka mugdigiisa ayaa ku habsaday magaalada. Waxay kaloo ahayd habeenkii ugu dambeeyay ee sannadka. Habeenka sannadka cusub. Qabowgan iyo gudcurkan ayaa gabar yar oo sabool ah waddada socotay. Way madax iyo cago marnayd. Markii ay guriga ka soo tegaysay way xirnayd dacas. Balse maxay tari. Waxay ahaayeen dacasihii waaweyn ee hooyadeed. Waa ay weynaayeen oo way ka dhaceen markii ay maagtay orod ku goy waddada. Dacasahii midkood ma aysan helin. Midka kalena waxaa qaatay wiil. Wuxuu sheegay in uu ka dhiganayo sariirta carruurta marka ay carruur u dhashaan."
+

@@ -1,0 +1,26 @@
+---
+title: Gabadhii taraqa
+permalink: /gabadhii-taraqa/
+layout: splash
+---
+Waxaa jiray qabow daran. Baraf ayaa da'ay oo habeenka mugdigiisa ayaa ku habsaday magaalada. Waxay kaloo ahayd habeenkii ugu dambeeyay ee sannadka. Habeenka sannadka cusub. Qabowgan iyo gudcurkan ayaa gabar yar oo sabool ah waddada socotay. Way madax iyo cago marnayd. Markii ay guriga ka soo tegaysay way xirnayd dacas. Balse maxay tari. Waxay ahaayeen dacasihii waaweynaa ee hooyadeed. Waa ay weynaayeen oo way ka dhaceen markii ay maagtay orod ku goy waddada. Dacasahii midkood ma aysan helin. Midka kalena waxaa qaatay wiil. Wuxuu sheegay in uu ka dhiganayo sariirta carruurta marka ay carruur u dhashaan.
+
+Halkaas ayay martay gabadhii yarayd ee cagaha cadayd, cagahaasoo la guduutay lana buluugoway qabow dartii. Marada dufan-dhowrta ah oo duug ah ayaa waxaa ugu jiray taraq, xirmana gacanta way ku haysay. Qofna waxba kama uusan gadan maalinkaas oo dhan. Way gaajoonaysay oo dhaxmoonaysay. Halkaas ayay meeraysanaysay oo waxay u muuqatay mid quusatay, maskiinta. Barafka ayaa ku daadanayay timaheedii dhaadheeraa ee jaallaha ahaa, kuwaaso qoorta ku sii laalaabanayay,  balse quruxdaas iyadu dan kama aysan galaynin. Bannaankana daaqadaha oo idil waxaa ka ifayay shumacyo, waxaa sidoo kale dariiqa qabsaday  carfta booloboolo shiilan; maadaama ay ahayd habeenka sannadka cusub, haahay, taa way xasuusatay.
+
+Gees shishe oo laba guri u dhexeeya, oo midkood u soo duruqsanaa dhanka waddada, ayay fadhiisatay oo isa soo uruurisay; lugaheedii yaraana hoos isugu soo laabtay, balse way sii dhaxamootay, guriga in ay aaddana kuma dhiiran karto, maadaama aysan gadin wax taraq ah, wax lacagna helin, aabaheed wuu garaaci doonaa,  gurigoodna sidoo kale waa qabow miiran. Waxay ku nool yihiin guri saqaf keliya leh oo dabeeshu toos  u soo galaysaa xitaa haddii xash iyo maro lagu cubay dulduleellada waaweyn. Gacmaheedii yaraana waxay ku dhow yihiin in ay qabow la curyaamaan. Alla, taraq yar igu fiicnaayaa! Haddii uun ay ku dhiiran lahayd xabbad in ay ka soo saarto xirmada, kuna xoqdo derbiga si faraha ugu kululaysato.
+
+Xabbad ayay soo saartay; rish! Alla muxuu shanqaray oo holcay! Wuxuu ahaa olol diiran oo ifaya, sida shumac yar, sidaa marka ay gacanta ugu heyso, wuxuu ahaa iftiin cajiib ah. Gabadhii yarayd waxay u arkaysay in ay hor fadhiso kuleeliyaha la isku diiriyo. Dabka si deggan ayuu u gubanayay oo si fiican u diirinayay. Maya, alla maxay ahayd? — Yartii waxayba soo saartay cagihii si iyagana loo diiriyo — balse waxaa damay holacii. Kuleeliyihii tag — waxay gacanta ku haysay qori yar oo taraqii gubtay ka soo haray.
+
+Taraq kale ayaa la xoqay, wuu shidmay, wuu ifay, meesha uu iftiinka derbiga ka qabto gudaha ayaa la arkaa. Waxay toos gudaha qolka ka aragtay miis la diyaariyay, oo lagu goglay go’ cad oo dhalaalaya. Halkaasoo boolobooladii shiilnayd ku uumi bixinaysay. Markaas ayaa boolobooladii ka soo boodday baaquligii oo ku soo dhacday dhulka iyadoo mindi iyo fargeeto dhabarka uga taagan yihiin. Oo ilaa waxay u soo dhaqaaqday dhanka gabadhii saboolka ahayd. Markaas waxaa damay taraqii, waxa keliya oo ay arki kartayna wuxuu ahaa derbiga weynaa ee qabowga ahaa.
+
+Waxay shidday mid kale. Markaa waxay hoos fadhisay geed kirismaskii ugu quruxda badnaa. Waa uu ka weynaa kana qurux badnaa kii ganacasadihii maalqabeenka ahaa ee kirismaskii la soo dhaafay. Kumanaan shumac ayaa ka shidnaa laamaha cagaaran ee geedka. Yartii waxay labada gacmood u taagtay kor — markaas waxaa damay taraqii, shumacyadii tirada badnaa ee kirismaskana marba marka ka dambaysa kor ayay u sii kaceen. Waxay aragtay cirka in ay xiddigo ka buuxaan. Midkood ayaa soo dhacay, oo cirka ku sameeyay xariijimo dab ah oo dhaadheer.
+
+— Qof ayaa hadda dhimanaya! ayay tiri yartii. Ayeeyadeed ayaa hore u tiri: Marka xiddig soo dhacdo, naf ayaa dhanka Eebbe u kacaysa.
+
+Waxay mar kale derbiga ku xoqday taraq kale, wuxuu ifiyay hareeraheeda, ifkii waxaa ka soo baxay ayeeyo, oo nuuraysa, ifiyasa, oo dabacsan oo macaan.
+
+— Ayeeyo! ayay ku dhawaaqday gabadhii yarayd. Hore ii kaxayaso! Waan ogahay in aadan joogayn marka taraqu damo, u mirqaysid sida kuleeliyaha, boolobooladii shiilnayd, geed kirismaskii weynaa ee fiicnaa! Oo waxay si lama filaan ah ku taabatay dab taraqyadii kale ee ku harsanaa xirmadii. Waxay runtii rabtay in ay ayeeyo sii haysato, taraqyadiina waxay bixiyeen dhalaal, kuwaasoo ka if badnaa maalinka cad. Ayeeyo hore weligeed sidaan oo kale uma qurux badnayn, waa weynayd; oo waxay gacmaheeda ku saarsatay gabadhii yarayd oo ay u duuleen dhalaal iyo farxad, meel sare oo fog, meel an lahayn qabow, baahi, welwel — waxay la joogeen Eebe.
+
+Laakin geeska guriga waxaa waaberigii hore dhaxanta fadhiday gabadhii yarayd oo daamo guduudan oo bushumaheeda muusanow saaran yahay — oo geeriyootay, qabow dilay habeenkii ugu dambeeyay ee sannadkii tagay. 
+
+Waaga sannadka cusub wuxuu ku baryay meydkii gabadhii yarayd, oo  heysatay taraqii, oo ay xirmad dhan wada gubteen. Waxay doonaysay in ay isku diiriso, ayay dadka dheheen; cidna kama warhayso quruxda ay aragtay, dhalaalka cajiibka leh ay iyada iyo ayeeyo sannadka cusub ku wada galeen.
