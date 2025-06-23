@@ -103,7 +103,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+#_tjanster, _adeegyada, _portfolio
+  # Custom collections
+  # These collections are used to create custom pages for services and portfolio.
+  # They are not blog posts, but rather static pages that can be linked to from
+  # the main navigation or footer.
+  # Each collection has its own layout and settings.
+  # The collections are defined in the _config.yml file, and the pages are
+  # generated from the files in the respective directories.
+  # The collections are used to create custom pages for services and portfolio. 
   - scope:
       path: "_tjanster"
       type: tjanster
@@ -134,6 +142,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  korbus:
     output: true
     permalink: /:collection/:path/
 

@@ -1,7 +1,7 @@
 ---
 title: Blog posts
 permalink: /blog/
-entries_layout: grid
+entries_layout: list
 classes: wide
 author_profile: true
 layout: home
