@@ -2,7 +2,6 @@
 title: Sakiinlaq AB
 layout: splash 
 excerpt: Hem till språktjänster<br> *Hoyga adeeg-luqadeedyada*
-
 permalink: /
 header:
   overlay_image: /assets/images/teeb.jpg

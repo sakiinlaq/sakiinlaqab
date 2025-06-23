@@ -1,6 +1,5 @@
 ---
 title: Flickan med svavelstickorna
-permalink: /flickan-med-svavelstickorna/
 tagline: "" #qari
 layout: splash
 ---
@@ -23,9 +22,3 @@ Hon strök åter en stryksticka mot muren; den lyste runt omkring, och i skenet 
 julgranen! Och hon strök hastigt eld på alla strykstickorna, som var kvar i bunten. Hon ville riktigt hålla kvar mormor; och strykstickorna lyste med sådan glans, att det var ljusare än på ljusa dagen. Mormor hade aldrig förr varit så vacker, så stor; hon lyfte den lilla flickan upp på sin arm, och de flög i glans och glädje, så högt, så högt; och där fans ingen köld, ingen hunger, ingen ångest — de var hos Gud.
 
 Men i hörnet vid huset satt i den kalla morgonstunden den lilla flickan med röda kinder, med leende kring munnen — död, ihjälfrusen den sista aftonen på det gamla året. Nyårsmorgonen gick upp över det lilla liket, som satt med strykstickorna, av vilka en bunt var nästan uppbränd. Hon har velat värma sig, sade man; ingen visste vad vackert hon hade sett, i vilken glans hon med gamla mormor hade gått in till nyårsglädje."
-- image_path: /assets/images/gabadhii-taraqa.png
-image_caption: "Sawir: Andersen, Hans Christian. Sagor och berättelser. Linnströms, 1877."
-alt: "Gabadhii taraqa"
-title: "Gabadhii taraqa"
-excerpt: "Waxaa jiray qabow daran. Baraf ayaa da'ay oo habeenka mugdigiisa ayaa ku habsaday magaalada. Waxay kaloo ahayd habeenkii ugu dambeeyay ee sannadka. Habeenka sannadka cusub. Qabowgan iyo gudcurkan ayaa gabar yar oo sabool ah waddada socotay. Way madax iyo cago marnayd. Markii ay guriga ka soo tegaysay way xirnayd dacas. Balse maxay tari. Waxay ahaayeen dacasihii waaweyn ee hooyadeed. Waa ay weynaayeen oo way ka dhaceen markii ay maagtay orod ku goy waddada. Dacasahii midkood ma aysan helin. Midka kalena waxaa qaatay wiil. Wuxuu sheegay in uu ka dhiganayo sariirta carruurta marka ay carruur u dhashaan."
-

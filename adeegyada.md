@@ -1,8 +1,8 @@
 ---
-title: Våra tjänster
+title: Adeegyadeenna
 layout: collection
-permalink: /tjanster/
-collection: tjanster
+permalink: /adeegyada/
+collection: adeegyada
 entries_layout: grid
 classes: wide
 header: 
@@ -11,4 +11,4 @@ header:
     teaser: /assets/images/translation.jpg
 ---
 
-Sakiinlaq AB erbjuder bland annat:
+Sakiinlaq AB adeegyada ay bixixso waxaa ka mid ah:

@@ -1,21 +1,11 @@
-# main links
 main:
   - title: "Tjänster"
     url: /tjanster/
   - title: "Adeegyada"
     url: /adeegyada/
-  - title: Blog
+  - title: "Blog"
     url: /blog/
   - title: "Om oss"
     url: /about/
   - title: "Kontakta oss"
     url: /contact/
-  #  - title: "Sample Collections"
-#    url: /collection-archive/
-  #- title: "Sitemap"
-  #   url: /sitemap/
-  #- title: Contact
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
- 
