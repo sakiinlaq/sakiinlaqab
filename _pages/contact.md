@@ -2,7 +2,8 @@
 title: Kontakta oss
 permalink: /contact/
 header:
-  image: /assets/images/contact-us.jpg
+  overlay_image: /assets/images/contact-us.jpg
+  filter: 0.8
 layout: single
 author_profile: true
 ---

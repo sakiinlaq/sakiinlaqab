@@ -6,6 +6,8 @@ toc_label: Boggan waxaa ku jira
 header: 
     overlay_image: /assets/images/translation.jpg
     teaser: /assets/images/translation.jpg
+    show_overlay_excerpt: false
+
 feature_row:
   - image_path: /assets/images/flickan-med-svavelstickorna.png
     image_caption: "Bild: Andersen, H. C. Sagor och berättelser. Linnströms, 1877."
