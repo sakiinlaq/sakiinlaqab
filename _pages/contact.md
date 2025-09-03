@@ -8,9 +8,9 @@ layout: single
 author_profile: true
 ---
 
-För offert och förfrågningar kontakta oss på ahmed at sakiinlaq.se
+För offert och förfrågningar kontakta oss på ahmed at sakiinlaq dot se
 
 # Nala soo xiriir
 
-Wixii su'aalo ama codsi ah nagala soo xiriir ahmed at sakiinlaq.se
+Wixii su'aalo ama codsi ah nagala soo xiriir ahmed at sakiinlaq dot se
 
