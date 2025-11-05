@@ -10,7 +10,6 @@ header:
     image: /assets/images/translation.jpg
     teaser: /assets/images/translation.jpg
     show_overlay_excerpt: false
-
 ---
 
 Sakiinlaq AB erbjuder bland annat:

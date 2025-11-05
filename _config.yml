@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ahmed Abdulqadir Sheikh
+title: Sakiinlaq AB
   # this is the main title of your site
 email: ahmed@sakiinlaq.se
 description: >- # this means to ignore newlines until "baseurl:"
@@ -59,20 +59,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Axmed Cabdulqaadir Sheikh"
+  name   : "Ahmed Abdulqaadir Sheikh"
   avatar : "https://pbs.twimg.com/profile_images/927280578692567042/BS5Ptp5a_400x400.jpg"
   bio    : "Grundare av Sakiinlaq AB <br>Tolk, översättare och förläggare"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sakiinlaq.com"
+      url: "http://sakiinlaq.se"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sakiinlaq"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sakiinlaq"
-   
+      url: "https://twitter.com/sakiinlaq"   
 
 footer:
   links:
