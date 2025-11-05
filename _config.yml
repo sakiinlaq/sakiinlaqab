@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sakiinlaq AB
-email: sakiinlaq(@)hotmail.com
+title: Ahmed Abdulqadir Sheikh
+  # this is the main title of your site
+email: ahmed@sakiinlaq.se
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: sakiinlaq
-github_username: sakiinlaq
+#github_username: 
 minimal_mistakes_skin: default
 search: true
 
@@ -58,13 +59,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ahmed Sheikh"
+  name   : "Axmed Cabdulqaadir Sheikh"
   avatar : "https://pbs.twimg.com/profile_images/927280578692567042/BS5Ptp5a_400x400.jpg"
   bio    : "Grundare av Sakiinlaq AB <br>Tolk, översättare och förläggare"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sakiinlaq.se"
+      url: "https://sakiinlaq.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sakiinlaq"
@@ -78,12 +79,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sakiinlaq"
 defaults:
   # _posts
   - scope:
@@ -103,15 +98,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-#_tjanster, _adeegyada, _portfolio
-  # Custom collections
-  # These collections are used to create custom pages for services and portfolio.
-  # They are not blog posts, but rather static pages that can be linked to from
-  # the main navigation or footer.
-  # Each collection has its own layout and settings.
-  # The collections are defined in the _config.yml file, and the pages are
-  # generated from the files in the respective directories.
-  # The collections are used to create custom pages for services and portfolio. 
   - scope:
       path: "_tjanster"
       type: tjanster
@@ -142,6 +128,15 @@ defaults:
       share: false
       sidebar: 
         nav: "korbus"
+  - scope:
+      type: ortagrafi
+    values:
+      layout: collection
+      classes: wide
+      author_profile: true
+      sidebar:
+        nav: "ortagrafi"
+        
 # collections:
 collections:
   tjanster: 
@@ -156,7 +151,9 @@ collections:
   korbus:
     output: true
     permalink: /:collection/:path/
-
+  ortagrafi:
+    output: true
+    permalink: /:collection/:path/
 category_archive:
   type: liquid
   path: /categories/

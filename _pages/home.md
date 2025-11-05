@@ -1,6 +1,6 @@
 ---
 title: Sakiinlaq AB
-layout: splash 
+layout: splash
 excerpt: Hem till språktjänster<br> *Hoyga adeeg-luqadeedyada*
 permalink: /
 header:
@@ -19,12 +19,5 @@ feature_row:
     url: /adeegyada
     btn_class: "btn--primary"
     btn_label: "Sii akhri"
-  - title: Blog
-    image_path: /assets/images/blog-landing.jpg
-    excerpt: "Artiklar relaterad till  våra tjänster. <br>Maqaallo la xiriira adeegyada aan bixinno"
-    url: /blog
-    btn_class: "btn--primary"
-    btn_label: "Läs/akhri"
 ---
 {% include feature_row %}
-

@@ -49,4 +49,16 @@ korbus:
         url: /korbus/hordhac3/
       - title: "Korp 4"
         url: /korbus/hordhac4/
-      
+
+
+ortagrafi:  
+- title: Hordhac
+  url: /ortagrafi/
+  children:
+      - title: "Hordhac"
+        url: /ortagrafi/hordhac/
+- title: "morfooloji"
+  children:
+    - title: "morfooloji"
+      url: /ortagrafi/mofooloji/
+- title: "isbeddelka codka"
