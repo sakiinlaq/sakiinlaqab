@@ -1,16 +1,13 @@
 ---
 title: Kontakta oss
-permalink: /kontakta-oss/
+permalink: /so/nala-soo-xiriir/
 header:
   overlay_image: /assets/images/contact-us.jpg
-  filter: 0.8
+  filter: 0.5
 layout: single
 ---
 
-För offert och förfrågningar kontakta oss på: ahmed(@)sakiinlaq.se
 
-
-# Nala soo xiriir
 
 Wixii su'aalo ama codsi ah nagala soo xiriir: ahmed(@)sakiinlaq.se
 

@@ -1,21 +1,19 @@
 # /_data/authors.yml
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+Ahmed Sheikh:
+  name        : "Ahmed Sheikh"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      url: "mailto:ahmed@sakiinlaq.se "
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://sakiinlaq.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/sakiinlaq"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
+Guest Guest:
+  name        : "Guest Guest"
   bio         : "I ordered what?"
   avatar      : "/assets/images/bio-photo.jpg"
   links:

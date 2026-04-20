@@ -1,5 +1,5 @@
 ---
-title: Våra tjänster
+title: Tjänster
 layout: collection
 permalink: /tjanster/
 collection: tjanster
@@ -12,4 +12,7 @@ header:
     show_overlay_excerpt: false
 ---
 
-Sakiinlaq AB erbjuder bland annat:
+## Våra tjänster
+
+Sakiinlaq AB bedriver verksamhet inom översättning, tolkning och bokutgivning
+mellan svenska och somaliska.

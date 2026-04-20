@@ -1,5 +1,5 @@
 ---
-title: Adeegyadeenna
+title: Adeegyada
 layout: collection
 permalink: /adeegyada/
 collection: adeegyada

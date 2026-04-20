@@ -1,7 +1,10 @@
 ---
-title: Förlag
+title: Bokutgivning
 tagline: ""
 layout: single
+permalink: /tjanster/02-bokutgivning/
+sidebar:
+  nav: "tjanster"
 header: 
     overlay_image: /assets/images/publishing.jpg
     teaser: /assets/images/publishing.jpg

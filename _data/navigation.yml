@@ -1,16 +1,37 @@
 main:
-  - title: "Tjänster"
-    url: /tjanster/
-  - title: "Adeegyada"
-    url: /adeegyada/
-#  - title: "Blog"
-#    url: /blog/
   - title: "Om oss"
-    url: /about/
+    url: /om-oss/
   - title: "Kontakta oss"
-    url: /contact/
-#  - title: "Korbus"
-#    url: /korbus/
+    url: /kontakta-oss/
+  - title: "Nyheter"
+    url: /nyheter/
+  - title: "Af Soomaali"
+    url: /so/
+
+main_so:
+  - title: "Nagu saabsan"
+    url: /so/nagu-saabsan/
+  - title: "Nala soo xiriir"
+    url: /so/nala-soo-xiriir/
+  - title: "Adeegyada"  
+    url: /adeegyada/
+
+
+adeegyada:
+  - title: "Adeegyada"
+    children:
+      - title: "Turjumaad"
+        url: /adeegyada/01-turjumaad/
+      - title: "Buug soosaarid"
+        url: /adeegyada/02-buug-soosaarid/
+        
+tjanster:
+  - title: "Tjänster"
+    children:
+      - title: "Översättning"
+        url: /tjanster/01-oversattning/
+      - title: "Bokutgivning"
+        url: /tjanster/02-bokutgivning/
 
 korbus:
   - title: Hordhac

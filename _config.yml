@@ -1,36 +1,22 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Sakiinlaq AB
-  # this is the main title of your site
+ # this is the main title of your site
 email: ahmed@sakiinlaq.se
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: sakiinlaq
-#github_username: 
+description: >-
+  Sakiinlaq AB bedriver verksamhet inom översättning, tolkning och bokutgivning mellan svenska och somaliska.
+
 minimal_mistakes_skin: default
 search: true
-
+atom_feed: 
+  hide: true
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : ""
   google:
-    tracking_id          : "G-8GB2W67QVB" # Replace this with your ID, or delete
+    tracking_id          : 
     anonymize_ip         : true
 
 # Build settings
@@ -39,8 +25,8 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /nyheter/page:num/
+timezone: Europe/Stockholm # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -78,50 +64,59 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sakiinlaq"   
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+footer:{}
+
 defaults:
+# Somaliska sidor – använd main_so
+  - scope:
+      path: "_pages/so"
+      type: pages
+    values:
+      nav: main_so
+
+
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: false
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      nav: main
   - scope:
       path: "_tjanster"
       type: tjanster
     values:
       layout: single
-      author_profile: true
-      share: false
+      author_profile: false
+      sidebar:
+        nav: "tjanster"
   - scope:
       path: "_adeegyada"
       type: adeegyada
     values: 
       layout: single
-      author_profile: true
-      share: false
+      author_profile: fale
+      sidebar:
+        nav: "adeegyada"
+
   - scope:
       path: "_portfolio"
       type: portfolio
     values: 
       layout: splash
-      author_profile: true
+      author_profile: false
       share: false
   - scope:
       path: "_korbus"
@@ -161,6 +156,7 @@ collections:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/

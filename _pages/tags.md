@@ -1,6 +1,5 @@
 ---
-title: Korpus
-taxonomy: korbus
-permalink: /tags/korbus/
-layout: tag
+title: "Posts by tags"
+layout: tags
+permalink: /tags/
 ---

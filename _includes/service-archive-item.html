@@ -1,0 +1,22 @@
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+
+  {% if include.item.header.teaser %}
+    <div class="archive__item-teaser">
+      <img
+        src="{{ include.item.header.teaser | relative_url }}"
+        alt=""
+        loading="lazy">
+    </div>
+  {% endif %}
+
+  <h2 class="archive__item-title">
+    <a href="{{ include.item.url | relative_url }}">{{ include.item.title }}</a>
+  </h2>
+
+  {% if include.item.excerpt %}
+    <div class="archive__item-excerpt" itemprop="description">
+      {{ include.item.excerpt | markdownify }}
+    </div>
+  {% endif %}
+
+</article>
