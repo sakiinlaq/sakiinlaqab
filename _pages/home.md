@@ -3,7 +3,7 @@ title: Sakiinlaq AB
 layout: splash
 excerpt: > 
  Professionella språktjänster<br>
-  <em>Adeegyo luqadeedyo xirfad ku dheehan</em>
+  <em>Adeegyo luqadeed xirfad ku dheehan</em>
 permalink: /
 
 header:
