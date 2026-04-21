@@ -5,9 +5,7 @@ permalink: /om-oss/
 header: /assets/images/typewriter.png
 ---
 
-**Sakiinlaq AB** är ett svenskt bolag som bedriver verksamhet inom **skriftlig översättning och språklig bearbetning**. Bolaget grundades 2023.
-
-Verksamheten inriktas på korrekt, konsekvent och ändamålsenlig språklig överföring, med särskild hänsyn till målgrupp och användningsområde.
+**Sakiinlaq AB** bedriver verksamhet inom **översättning och språklig bearbetning**. Bolaget grundades 2023.
 
 ---
 
