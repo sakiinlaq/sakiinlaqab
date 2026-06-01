@@ -16,70 +16,43 @@ main_so:
   - title: "Adeegyada"  
     url: /adeegyada/
 
+sheekooyin:
+  - title: "Buugga"
+    children:
+      - title: "Hordhac"
+        url: /ebook/hordhac/
+      - title: "Tusmo"
+        url: /ebook/tusmo/
+
+  - title: "Sheekooyinka"
+    children:
+      - title: "Dhuruq iyo Dayo"
+        url: /sheekooyin/dhuruq-iyo-dayo/
+      - title: "Inantii Eeyadda Ahayd"
+        url: /sheekooyin/inantii-eeyadda-ahayd/
+      - title: "Cali Caddaalad"
+        url: /sheekooyin/cali-caddaalad/
+      - title: "Dhakhtar Samatar"
+        url: /sheekooyin/dhakhtar-samatar/
+      - title: "Faadumo Yar iyo Cumar Lug‑Yare"
+        url: /sheekooyin/faadumo-yar-iyo-cumar-lug-yare/
+
+  - title: "Macluumaad"
+    children:
+      - title: "Qoraha"
+        url: /ebook/qoraha/
+      - title: "Daabacaad"
+        url: /ebook/daabacaad/
+
 
 adeegyada:
   - title: "Adeegyada"
     children:
       - title: "Turjumaad"
         url: /adeegyada/01-turjumaad/
-      - title: "Buug soosaarid"
-        url: /adeegyada/02-buug-soosaarid/
         
 tjanster:
   - title: "Tjänster"
     children:
       - title: "Översättning"
         url: /tjanster/01-oversattning/
-      - title: "Bokutgivning"
-        url: /tjanster/02-bokutgivning/
-
-korbus:
-  - title: Hordhac
-    children:
-      - title: "Hordhac"
-        url: /korbus/hordhac/
-      - title: "Hordhac 1"
-        url: /korbus/hordhac1/
-      - title: "Hordhac 2"
-        url: /korbus/hordhac2/
-      - title: "Hordhac 3"
-        url: /korbus/hordhac3/
-      - title: "Hordhac 4"
-        url: /korbus/hordhac4/
-  - title: Habit
-    children:
-      - title: "Habit"
-        url: /korbus/habit/
-      - title: "Habit 1"
-        url: /korbus/habit1/
-      - title: "Habit 2"
-        url: /korbus/habit2/
-      - title: "Habit 3"
-        url: /korbus/habit3/
-      - title: "Habit 4"
-        url: /korbus/habit4/
-  - title: Korp
-    children:
-      - title: "Korp"
-        url: /korbus/korp/
-      - title: "Korp 1"
-        url: /korbus/hordhac1/
-      - title: "Korp 2"
-        url: /korbus/hordhac2/
-      - title: "Korp 3"
-        url: /korbus/hordhac3/
-      - title: "Korp 4"
-        url: /korbus/hordhac4/
-
-
-ortagrafi:  
-- title: Hordhac
-  url: /ortagrafi/
-  children:
-      - title: "Hordhac"
-        url: /ortagrafi/hordhac/
-- title: "morfooloji"
-  children:
-    - title: "morfooloji"
-      url: /ortagrafi/mofooloji/
-- title: "isbeddelka codka"

@@ -1,22 +1,21 @@
 ---
 title: Kontakta oss
+description: "Kontakta Sakiinlaq AB för offert på översättning mellan svenska och somaliska."
 permalink: /kontakta-oss/
 header:
   overlay_image: /assets/images/contact-us.jpg
-  filter: 0.8
+  filter: 0.6
 layout: single
 ---
 
-För offert och förfrågningar kontakta oss på: ahmed(@)sakiinlaq.se
+Kontakta oss gärna för offert eller frågor om översättning mellan svenska och somaliska.
 
-
-# Nala soo xiriir
-
-Wixii su'aalo ama codsi ah nagala soo xiriir: ahmed(@)sakiinlaq.se
+E-post: <ahmed@sakiinlaq.se>
 
 ---
 
-# Offertförfrågan
-Du får gärna lämna in en offertförfrågan och vi återkommer till er så snart som möjligt.
+## Offertförfrågan
 
-<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=PfdEWe5qbUquLFh0yOXnTiGNgYgJTJlFuJzeOb_QC3hURFBNMTFDNlRSNDZYODhXVDRHTTVDTzZTQi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Beskriv gärna textens omfattning, språk, önskat leveransformat och eventuell deadline. Vi återkommer så snart som möjligt.
+
+<iframe title="Offertförfrågan" loading="lazy" width="640px" height="480px" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=PfdEWe5qbUquLFh0yOXnTiGNgYgJTJlFuJzeOb_QC3hURFBNMTFDNlRSNDZYODhXVDRHTTVDTzZTQi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen> </iframe>

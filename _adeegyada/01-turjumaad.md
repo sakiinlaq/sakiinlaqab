@@ -1,7 +1,9 @@
 ---
 title: Turjumaad
+description: "Turjumaad u dhexeysa af Iswiidhish iyo af Soomaali, iyo qoraal-hoosaadyo loogu talagalay cod iyo muuqaal."
 layout: single
 author_profile: false
+locale: so-SO
 permalink: /adeegyada/01-turjumaad/
 sidebar:
   nav: adeegyada
@@ -26,38 +28,41 @@ feature_row:
     excerpt: "Waxaa jiray qabow daran. Baraf ayaa da'ay oo habeenka mugdigiisa ayaa ku habsaday magaalada. Waxay kaloo ahayd habeenkii ugu dambeeyay ee sannadka. Habeenka sannadka cusub. Qabowgan iyo gudcurkan ayaa gabar yar oo sabool ah waddada socotay. Way madax iyo cago marnayd. Markii ay guriga ka soo tegaysay way xirnayd dacas. Balse maxay tari. Waxay ahaayeen dacasihii waaweynaa ee hooyadeed. Waa ay weynaayeen oo way ka dhaceen markii ay maagtay orod ku goy waddada. Dacasahii midkood ma aysan helin. Midka kalena waxaa qaatay wiil. Wuxuu sheegay in uu ka dhiganayo sariirta carruurta marka ay carruur u dhashaan."
 ---
 
-Sakiinlaq AB waxay bixisaa adeegga turjumidda qoraalka, sidoo kale codadka muuqaalka leh ama la'.
+Sakiinlaq AB waxay bixisaa adeegga turjumidda qoraallada, codadka iyo muuqaalada.
 
-# Turjimidda qoraallada iyo dukumintiyada
+## Turjumidda qoraallada iyo dukumintiyada
 
 Waxaan u turjunnaa:
 
-- Af soomaali, kana turjunnaa af Iswiidhish iyo af Ingiriis
+- Af Soomaali, kana turjunnaa af Iswiidhish iyo af Ingiriis
 - Iswiidhish, kana turjunnaa af Soomaali
 
-Turjumidda waxaan ku soo gudbin karnaa pdf. Qoraallada Wordka ah waxaan ku dadaalaynaa in turjimiddu lahaato qoraalka asalka naqashaddiisa.
+Turjumaadda waxaan ku soo gudbin karnaa PDF. Haddii qoraalka lagu soo diro Word, waxaan ku dadaalaynaa in qaabka iyo habaynta qoraalka asalka ah la ilaaliyo.
 
 ## Muunad | sheeko xarriiro Iswiidhish Soomaali loo turjumay
 
 {% include feature_row type="left"%}
 
-# Turjumidda codadka iyo fiidiyowyada (subtitle)
+## Turjumidda codadka iyo fiidiyowyada
 
 {% include figure popup=true image_path="/assets/images/laba-afoole-guban.png" alt="Waa subtitle laba afoole ah oo ku guban khalfiyad madow" caption="Subtitle laba afoole ah oo ku guban khalfiyad madow." %}
 
-Waxaan turjunnaa codadka iyo muuqaallada. Si aan u turjunna hadalka, waxaan samaynaa *taraniskiribshanka* codka duuban oo kaddib ayaan u beddelnaa luqadda kale.
+Waxaan turjunnaa codadka iyo muuqaallada. Marka hore waxaan qoraal ka samaynaa hadalka duuban, ka dibna waxaan u turjunnaa luqadda kale.
 
-## Fiidiyow
+### Fiidiyow
+
 Waxaan shaqada ku soo gudbin karnaa:
-- *.srt*, *.txt* ama *.ssa* 
-- Ku gubi karnaa qoraalka turjuman muuqaalka
-- Subtitle oo laba afoole ah oo af kastaa midab u gaar ah leeyahay
 
-## Cod
+- *.srt*, *.txt* ama *.ssa* 
+- qoraal-hoosaad ku guban muuqaalka
+- qoraal-hoosaad laba afle ah oo af kastaa midab u gaar ah leeyahay
+
+### Cod
 
 - *PDF* ama *.txt* oo waqtiyada ku shaabadaysan yihiin
-- subtitle ku guban khalfiyad hal midable ah ama fayl *.srt* amma .ass (.ssa) ah
-- Subtitle laba afoole ah oo af kastaa midab u gaar ah leeyahay
+- qoraal-hoosaad ku yaal muuqaal leh khalfiyad hal midab ah
+- fayl *.srt*, *.ass* ama *.ssa* ah
 
-## Muunad | Qoraal laba afoole ah oo muuqaal ku guban
+### Muunad | Qoraal laba afle ah oo muuqaal ku guban
+
 {% include video id="1eMRxdOpYINb6iKpqczTK7xReuQfSBSOd" provider="google-drive" %}

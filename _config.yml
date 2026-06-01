@@ -1,16 +1,18 @@
-
-
 # Site settings
 title: Sakiinlaq AB
  # this is the main title of your site
 email: ahmed@sakiinlaq.se
 description: >-
-  Sakiinlaq AB bedriver verksamhet inom översättning, tolkning och bokutgivning mellan svenska och somaliska.
-
-minimal_mistakes_skin: default
+  Sakiinlaq AB erbjuder översättning mellan svenska och somaliska.
+logo: "/assets/images/logo.png"
+minimal_mistakes_skin: catppuccin_mocha
 search: true
 atom_feed: 
   hide: true
+
+locale: sv-SE
+url: "https://sakiinlaq.se"
+og_image: "/assets/images/logo.png"
 
 # Analytics
 analytics:
@@ -21,12 +23,15 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.28.0
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /nyheter/page:num/
-timezone: Europe/Stockholm # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+#paginate: 5 # amount of posts to show
+#paginate_path: /nyheter/page:num/
+
+
+timezone: Europe/Stockholm 
 
 include:
   - _pages
@@ -45,7 +50,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+# - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -56,10 +61,11 @@ author:
   name   : "Ahmed Abdulqaadir Sheikh"
   avatar : "https://pbs.twimg.com/profile_images/927280578692567042/BS5Ptp5a_400x400.jpg"
   bio    : "Grundare av Sakiinlaq AB <br>Tolk, översättare och förläggare"
+  url    : "https://sakiinlaq.se"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://sakiinlaq.se"
+      url: "https://sakiinlaq.se"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sakiinlaq"   
@@ -73,19 +79,20 @@ defaults:
       type: pages
     values:
       nav: main_so
+      locale: so-SO
 
-
-  # _posts
+# _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: false
-      read_time: false
+      read_time: true
       comments: false
       share: false
       related: true
+
   # _pages
   - scope:
       path: ""
@@ -107,10 +114,10 @@ defaults:
       type: adeegyada
     values: 
       layout: single
-      author_profile: fale
+      author_profile: false
+      locale: so-SO
       sidebar:
         nav: "adeegyada"
-
   - scope:
       path: "_portfolio"
       type: portfolio
@@ -118,26 +125,13 @@ defaults:
       layout: splash
       author_profile: false
       share: false
-  - scope:
-      path: "_korbus"
-      type: korbus
-    values:
-      layout: collection
-      author_profile: false
-      share: false
-      sidebar: 
-        nav: "korbus"
-  - scope:
-      type: ortagrafi
-    values:
-      layout: collection
-      classes: wide
-      author_profile: true
-      sidebar:
-        nav: "ortagrafi"
+
         
 # collections:
 collections:
+  #sheekooyin:
+   # output: true
+    #permalink: /:collection/:path/
   tjanster: 
     output: true
     permalink: /:collection/:path/
@@ -147,12 +141,8 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  korbus:
-    output: true
-    permalink: /:collection/:path/
-  ortagrafi:
-    output: true
-    permalink: /:collection/:path/
+  
+
 category_archive:
   type: liquid
   path: /categories/

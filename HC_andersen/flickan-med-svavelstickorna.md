@@ -1,7 +1,10 @@
 ---
 title: Flickan med svavelstickorna
 tagline: "" #qari
-layout: splash
+permalink: /hc_andersen/flickan-med-svavelstickorna/
+layout: single
+categories: sagor
+language: sv
 ---
 
 Där gick nu den lilla flickan på de nakna små fötterna röda och blå av köld. I ett gammalt förkläde hade hon svavelstickor, och en bunt bar hon i handen. Det var ingen som hade köpt något av henne under hela dagen. Hon var hungrig och frusen. Där gick hon och såg så förtvivlad ut, den lilla stackaren. Snöflingorna föll i hennes långa, gula hår, som lockade sig så vackert kring nacken, men den prydnaden tänkte hon inte på. Ut från alla fönster lyste ljusen, och så luktade det så gott av gåsstek där ute på gatan; det var ju nyårsafton, ja, det tänkte hon på.
