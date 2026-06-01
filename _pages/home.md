@@ -2,7 +2,9 @@
 title: Sakiinlaq AB
 layout: splash
 excerpt: >
-  Översättning mellan svenska och somaliska.
+  Översättning mellan svenska och somaliska.<br>
+  Professionella språktjänster<br>
+  <em>Adeegyo luqadeed xirfad ku dheehan</em>
 permalink: /
 
 header:

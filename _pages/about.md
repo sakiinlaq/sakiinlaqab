@@ -7,7 +7,7 @@ header:
 
 ---
 
-**Sakiinlaq AB** är ett svenskt bolag som bedriver verksamhet inom **översättning**. Bolaget grundades 2023.
+**Sakiinlaq AB** är ett svenskt bolag som bedriver verksamhet inom **översättning och språklig bearbetning**. Bolaget grundades 2023.
 
 Verksamheten inriktas på korrekt, konsekvent och ändamålsenlig språklig överföring, med särskild hänsyn till målgrupp och användningsområde.
 
