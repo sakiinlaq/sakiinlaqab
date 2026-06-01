@@ -50,10 +50,6 @@ Vi översätter främst till:
 
 {% include feature_row type="left" %}
 
-[Läs hela sagan på svenska här](/hc_andersen/flickan-med-svavelstickorna/)
-
-[Ka akhri sheekada dhan dhalkan](/hc_andersen/gabadhii-taraqa/)
-
 ## Översättning (undertexting) av ljud och video
 
 {% include figure popup=true image_path="/assets/images/laba-afoole-guban.png" alt="Waa subtitle laba afoole ah oo ku guban khalfiyad madow" caption="Subtitle laba afoole ah oo ku guban khalfiyad madow." %}

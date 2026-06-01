@@ -39,7 +39,7 @@ Waxaan u turjunnaa:
 
 Turjumaadda waxaan ku soo gudbin karnaa PDF. Haddii qoraalka lagu soo diro Word, waxaan ku dadaalaynaa in qaabka iyo habaynta qoraalka asalka ah la ilaaliyo.
 
-## Muunad | sheeko xarriiro Iswiidhish Soomaali loo turjumay
+### Muunad | sheeko xarriiro Iswiidhish Soomaali loo turjumay
 
 {% include feature_row type="left"%}
 
