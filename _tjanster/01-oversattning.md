@@ -39,20 +39,20 @@ Sakiinlaq AB erbjuder översättning av skriven text och ljud med eller utan rö
 
 ## Översättning av dokument
 
-Vi översätter främst till:
+Vi översätter främst:
 
-- *somaliska* från svenska och engelska,
-- Svenska från *somaliska*.
+- till *somaliska* från svenska och engelska,
+- till *svenska* från somaliska.
 
 Översättningen kan levereras som PDF. Om dokumentet skickas i Word kan vi bevara originalets formatering i den översatta versionen.
 
-## Smakprov | Översättning av en svenska saga till somaliska
+## Smakprov | Översättning av en svensk saga till somaliska
 
 {% include feature_row type="left" %}
 
-## Översättning (undertexting) av ljud och video
+## Översättning (undertextning) av ljud och video
 
-{% include figure popup=true image_path="/assets/images/laba-afoole-guban.png" alt="Waa subtitle laba afoole ah oo ku guban khalfiyad madow" caption="Subtitle laba afoole ah oo ku guban khalfiyad madow." %}
+{% include figure popup=true image_path="/assets/images/laba-afoole-guban.png" alt="Tvåspråkig inbränd undertext på mörk bakgrund" caption="Tvåspråkig inbränd undertext på mörk bakgrund." %}
 
 Sakiinlaq AB översätter gärna från en ljudinspelning eller video.
 
@@ -60,16 +60,16 @@ För att översätta talat innehåll gör vi först en transkribering av inspeln
 
 ### Film
 
-- SRT-fil, TXT, SSA eller PDF med tidstämpel
-- Inbränt undertext av översättningen
-- Tvåspråkigt inbränt undertext
+- SRT-fil, TXT, SSA eller PDF med tidsstämpel
+- Inbränd undertext av översättningen
+- Tvåspråkig inbränd undertext
 
 ### Ljudinspelning
 
-- pdf med tidstämpel
+- PDF med tidsstämpel
 - inbränd undertext på en enfärgad bakgrund och/eller en SRT-fil
-- Tvåspråkigt inbränt undertext
+- Tvåspråkig inbränd undertext
 
-### Smakprov | Tvåspråkigt inbränt undertext på en mörk bakgrund
+### Smakprov | Tvåspråkig inbränd undertext på en mörk bakgrund
 
 {% include video id="1eMRxdOpYINb6iKpqczTK7xReuQfSBSOd" provider="google-drive" %}

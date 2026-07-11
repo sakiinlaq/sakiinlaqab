@@ -7,9 +7,11 @@ header:
 
 ---
 
-**Sakiinlaq AB** är ett svenskt bolag som bedriver verksamhet inom **översättning och språklig bearbetning**. Bolaget grundades 2023.
+**Sakiinlaq AB** är en svensk språkbyrå som arbetar med **översättning och språklig bearbetning** mellan svenska och somaliska. Bolaget grundades 2023.
 
-Verksamheten inriktas på korrekt, konsekvent och ändamålsenlig språklig överföring, med särskild hänsyn till målgrupp och användningsområde.
+Bakom Sakiinlaq AB står **Ahmed Abdulqaadir Sheikh** – översättare och förläggare med lång erfarenhet av att överföra text mellan svenska och somaliska. Arbetet präglas av noggrannhet, konsekvent terminologi och känsla för mottagaren, oavsett om det gäller ett myndighetsdokument, en undertext eller en bok.
+
+Vi tar oss an uppdrag åt myndigheter, organisationer, företag och privatpersoner. Varje uppdrag anpassas efter målgrupp och användningsområde.
 
 ---
 

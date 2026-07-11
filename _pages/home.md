@@ -10,23 +10,35 @@ permalink: /
 header:
   overlay_image: /assets/images/teeb.jpg
 
-gallery:
-  - image_path: /assets/images/tjanster-landing-svenska.png
-    title: Tjänster på svenska
-    alt: "Tjänster på svenska"
+feature_row:
+  - image_path: /assets/images/translation.jpg
+    alt: "Översättning på svenska"
+    title: "Svenska"
+    excerpt: "Läs om vår översättning mellan svenska och somaliska – dokument, ljud och video."
     url: /tjanster/
-  - image_path: /assets/images/adeegyada-landing-soomaali.png
-    title: Adeegyada - Soomaali
+    btn_label: "Till tjänster"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/tolkning.jpg
     alt: "Adeegyada af Soomaali"
+    title: "Soomaali"
+    excerpt: "Akhri wax ku saabsan adeegyada turjumaadda ee u dhexeeya af Iswiidhish iyo af Soomaali."
     url: /adeegyada/
-    
+    btn_label: "Adeegyada"
+    btn_class: "btn--primary"
 ---
+
+## Om Sakiinlaq AB
+
+Sakiinlaq AB är en språkbyrå som är specialiserad på översättning mellan
+svenska och somaliska. Vi hjälper myndigheter, organisationer, företag och
+privatpersoner med korrekt och konsekvent översättning av dokument samt
+undertextning av ljud och video.
 
 ## Tjänster
 
-Välj språk för att läsa mer om översättning mellan svenska och somaliska.
+Välj språk för att läsa mer om vad vi erbjuder.
 
-{% include gallery  %}
+{% include feature_row %}
 
 [Kontakta oss för offert](/kontakta-oss/){: .btn .btn--primary}
 [Läs om översättning](/tjanster/01-oversattning/){: .btn .btn--inverse}
