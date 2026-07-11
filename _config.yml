@@ -16,9 +16,9 @@ og_image: "/assets/images/logo.png"
 
 # Analytics
 analytics:
-  provider               : ""
+  provider               : "google-gtag"
   google:
-    tracking_id          : 
+    tracking_id          : "G-CPCWK3E46V"
     anonymize_ip         : true
 
 # Build settings
