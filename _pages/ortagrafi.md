@@ -1,5 +1,6 @@
 ---
-title: Ortagrafi
+title: Ortografi
+published: false
 permalink: /ortagrafi/
 collection: ortagrafi
 author_profile: false

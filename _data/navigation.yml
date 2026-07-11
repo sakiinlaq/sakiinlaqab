@@ -3,8 +3,6 @@ main:
     url: /om-oss/
   - title: "Kontakta oss"
     url: /kontakta-oss/
-  - title: "Nyheter"
-    url: /nyheter/
   - title: "Af Soomaali"
     url: /so/
 
@@ -13,44 +11,46 @@ main_so:
     url: /so/nagu-saabsan/
   - title: "Nala soo xiriir"
     url: /so/nala-soo-xiriir/
-  - title: "Adeegyada"  
+  - title: "Adeegyada"
     url: /adeegyada/
+  - title: "Svenska"
+    url: /
 
-sheekooyin:
-  - title: "Buugga"
-    children:
-      - title: "Hordhac"
-        url: /ebook/hordhac/
-      - title: "Tusmo"
-        url: /ebook/tusmo/
-
-  - title: "Sheekooyinka"
-    children:
-      - title: "Dhuruq iyo Dayo"
-        url: /sheekooyin/dhuruq-iyo-dayo/
-      - title: "Inantii Eeyadda Ahayd"
-        url: /sheekooyin/inantii-eeyadda-ahayd/
-      - title: "Cali Caddaalad"
-        url: /sheekooyin/cali-caddaalad/
-      - title: "Dhakhtar Samatar"
-        url: /sheekooyin/dhakhtar-samatar/
-      - title: "Faadumo Yar iyo Cumar Lug‑Yare"
-        url: /sheekooyin/faadumo-yar-iyo-cumar-lug-yare/
-
-  - title: "Macluumaad"
-    children:
-      - title: "Qoraha"
-        url: /ebook/qoraha/
-      - title: "Daabacaad"
-        url: /ebook/daabacaad/
-
+# Vilande – innehållet är inte publicerat ännu.
+# sheekooyin:
+#   - title: "Buugga"
+#     children:
+#       - title: "Hordhac"
+#         url: /ebook/hordhac/
+#       - title: "Tusmo"
+#         url: /ebook/tusmo/
+#
+#   - title: "Sheekooyinka"
+#     children:
+#       - title: "Dhuruq iyo Dayo"
+#         url: /sheekooyin/dhuruq-iyo-dayo/
+#       - title: "Inantii Eeyadda Ahayd"
+#         url: /sheekooyin/inantii-eeyadda-ahayd/
+#       - title: "Cali Caddaalad"
+#         url: /sheekooyin/cali-caddaalad/
+#       - title: "Dhakhtar Samatar"
+#         url: /sheekooyin/dhakhtar-samatar/
+#       - title: "Faadumo Yar iyo Cumar Lug‑Yare"
+#         url: /sheekooyin/faadumo-yar-iyo-cumar-lug-yare/
+#
+#   - title: "Macluumaad"
+#     children:
+#       - title: "Qoraha"
+#         url: /ebook/qoraha/
+#       - title: "Daabacaad"
+#         url: /ebook/daabacaad/
 
 adeegyada:
   - title: "Adeegyada"
     children:
       - title: "Turjumaad"
         url: /adeegyada/01-turjumaad/
-        
+
 tjanster:
   - title: "Tjänster"
     children:

@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ahmed Abdulqaadir Sheikh"
-  avatar : "https://pbs.twimg.com/profile_images/927280578692567042/BS5Ptp5a_400x400.jpg"
+  avatar : "/assets/images/logo.png"
   bio    : "Grundare av Sakiinlaq AB <br>Tolk, översättare och förläggare"
   url    : "https://sakiinlaq.se"
   links:
