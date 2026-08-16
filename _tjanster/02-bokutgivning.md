@@ -13,7 +13,7 @@ header:
     show_overlay_excerpt: false
 
 ---
-Sakiinlaq AB erbjuder praktiskt stöd i arbetet med bokutgivning, från textbearbetning till färdigt publiceringsunderlag.
+Praktiskt stöd erbjuds i arbetet med bokutgivning, från textbearbetning till färdigt publiceringsunderlag.
 
 ## Bokutgivning
 

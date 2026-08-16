@@ -35,7 +35,7 @@ feature_row:
   
 ---
 
-Sakiinlaq AB erbjuder översättning av skriven text och ljud med eller utan rörlig bild.
+Här erbjuds översättning av skriven text och ljud, med eller utan rörlig bild.
 
 ## Översättning av dokument
 
@@ -54,7 +54,7 @@ Vi översätter främst:
 
 {% include figure popup=true image_path="/assets/images/laba-afoole-guban.png" alt="Tvåspråkig inbränd undertext på mörk bakgrund" caption="Tvåspråkig inbränd undertext på mörk bakgrund." %}
 
-Sakiinlaq AB översätter gärna från en ljudinspelning eller video.
+Översättning görs gärna utifrån en ljudinspelning eller video.
 
 För att översätta talat innehåll gör vi först en transkribering av inspelningen och översätter därefter texten.
 

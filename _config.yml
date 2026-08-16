@@ -3,16 +3,16 @@ title: Sakiinlaq AB
  # this is the main title of your site
 email: ahmed@sakiinlaq.se
 description: >-
-  Sakiinlaq AB erbjuder översättning mellan svenska och somaliska.
-logo: "/assets/images/logo.png"
-minimal_mistakes_skin: catppuccin_mocha
+  Översättning erbjuds mellan svenska och somaliska.
+logo: "/assets/images/logo.svg"
+minimal_mistakes_skin: sakiinlaq
 search: true
-atom_feed: 
+atom_feed:
   hide: true
 
 locale: sv-SE
 url: "https://sakiinlaq.se"
-og_image: "/assets/images/logo.png"
+og_image: "/assets/images/logo-mark.png"
 
 # Analytics
 analytics:
@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ahmed Abdulqaadir Sheikh"
-  avatar : "/assets/images/logo.png"
+  name   : "Ahmed Sheikh"
+  avatar : "/assets/images/logo-mark.png"
   bio    : "Grundare av Sakiinlaq AB <br>Tolk, översättare och förläggare"
   url    : "https://sakiinlaq.se"
   links:
