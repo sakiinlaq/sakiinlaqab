@@ -14,4 +14,4 @@ header:
 
 ## Våra tjänster
 
-Sakiinlaq AB erbjuder översättning mellan svenska och somaliska.
+Här erbjuds översättning mellan svenska och somaliska.

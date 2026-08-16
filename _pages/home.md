@@ -29,9 +29,9 @@ feature_row:
 
 ## Om Sakiinlaq AB
 
-Sakiinlaq AB är en språkbyrå som är specialiserad på översättning mellan
-svenska och somaliska. Vi hjälper myndigheter, organisationer, företag och
-privatpersoner med korrekt och konsekvent översättning av dokument samt
+Sakiinlaq AB är en språkbyrå specialiserad på översättning mellan
+svenska och somaliska. Myndigheter, organisationer, företag och
+privatpersoner får hjälp med korrekt och konsekvent översättning av dokument samt
 undertextning av ljud och video.
 
 ## Tjänster
