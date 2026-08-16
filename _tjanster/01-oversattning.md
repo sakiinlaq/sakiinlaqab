@@ -26,14 +26,18 @@ feature_row:
     excerpt: "Waxaa jiray qabow daran. Baraf ayaa da'ay oo habeenka mugdigiisa ayaa ku habsaday magaalada. Waxay kaloo ahayd habeenkii ugu dambeeyay ee sannadka. Habeenka sannadka cusub. Qabowgan iyo gudcurkan ayaa gabar yar oo sabool ah waddada socotay. Way madax iyo cago marnayd. Markii ay guriga ka soo tegaysay way xirnayd dacas. Balse maxay tari. Waxay ahaayeen dacasihii waaweynaa ee hooyadeed. Waa ay weynaayeen oo way ka dhaceen markii ay maagtay orod ku goy waddada. Dacasahii midkood ma aysan helin. Midka kalena waxaa qaatay wiil. Wuxuu sheegay in uu ka dhiganayo sariirta carruurta marka ay carruur u dhashaan."
 ---
 Sakiinlaq AB erbjuder översättning av skriven text och ljud med eller utan rörlig bild.
+
 # Översättning av dokument
+
 Vi översätter främst till:
+
 - *somaliska* från svenska och engelska,
 - Svenska från *somaliska*.
 
-Översättningen kan levereras som pdf. Dokument som är skickat i word kan vi se till att orginal formateringen är även bibhållen i översättningen.
+Översättningen kan levereras som pdf. Dokument som är skickat i word kan vi se till att original formateringen är även bibehållen i översättningen.
 
 ## Smakprov | Översättning av en svenska saga till somaliska
+
 {% include feature_row type="left" %}
 
 # Översättning (undertexting) av ljud och video
