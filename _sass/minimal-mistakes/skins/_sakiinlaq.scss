@@ -1,0 +1,88 @@
+/* ==========================================================================
+   Sakiinlaq skin — varumärkespalett (Petrol/Salvia/Sand/Grafit/Papper)
+   ========================================================================== */
+
+/* Colors */
+$petrol: #14443F !default;   // primär — text, logotyp, ytor
+$salvia: #2C6E63 !default;   // sekundär — länkar, detaljer
+$sand:   #C7A06A !default;   // accent — sparsamt, framhävning
+$grafit: #1C211E !default;   // brödtext
+$dimma:  #E3E8E3 !default;   // ytor, avgränsare
+$papper: #F5F2EB !default;   // bakgrund
+$paper-card: #FBFAF6 !default; // korten/formulär, ngt ljusare än bakgrunden
+
+$background-color: $papper !default;
+$text-color: $grafit !default;
+$muted-text-color: #5C645F !default;
+$primary-color: $petrol !default;
+$accent-color: $sand !default;
+
+$border-color: $dimma !default;
+$code-background-color: $paper-card !default;
+$code-background-color-dark: mix(#000, $paper-card, 8%) !default;
+$form-background-color: #FFFFFF !default;
+$footer-background-color: $petrol !default;
+
+$link-color: $salvia !default;
+$link-color-hover: mix(#fff, $link-color, 20%) !default;
+$link-color-visited: mix(#000, $link-color, 20%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $primary-color !default;
+$navicon-link-color-hover: mix(#000, $background-color, 8%) !default;
+
+/* notices */
+$notice-background-mix: 80% !default;
+$code-notice-background-mix: 90% !default;
+
+/* syntax highlighting (base16), stämt mot varumärkespaletten */
+$base00: $paper-card !default;
+$base01: #ECEAE2 !default;
+$base02: $dimma !default;
+$base03: #9A9F99 !default;
+$base04: #7A807B !default;
+$base05: $grafit !default;
+$base06: #14211E !default;
+$base07: #FFFFFF !default;
+$base08: #B5533F !default;
+$base09: $sand !default;
+$base0a: #D9B36C !default;
+$base0b: $salvia !default;
+$base0c: #4C8C81 !default;
+$base0d: $petrol !default;
+$base0e: #8C6E8A !default;
+$base0f: #8A6A4B !default;
+
+.page__footer {
+  color: $papper !important; // vit text på petrolbakgrund
+
+  a:hover {
+    color: $sand;
+  }
+}
+
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa,
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+/* next/previous buttons */
+.pagination--pager {
+  color: $papper;
+  background-color: $primary-color;
+  border-color: transparent;
+
+  &:hover {
+    background-color: $salvia;
+  }
+
+  &:visited {
+    color: $papper;
+  }
+}
+
+::selection {
+  background: $sand !important;
+  color: $petrol !important;
+}

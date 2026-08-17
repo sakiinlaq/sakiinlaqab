@@ -2,50 +2,34 @@
 title: Om oss
 layout: single
 permalink: /om-oss/
-header: /assets/images/typewriter.png
----
-
-**Sakiinlaq AB** bedriver verksamhet inom **översättning och språklig bearbetning**. Bolaget grundades 2023.
+header: 
+  overlay_image: /assets/images/teeb.jpg
 
 ---
 
-## Översättning och språktjänster
+**Sakiinlaq AB** är en svensk språkbyrå inom **översättning och språklig bearbetning** mellan svenska och somaliska. Bolaget grundades 2023.
+
+Bakom Sakiinlaq AB står grundaren – översättare och förläggare med lång erfarenhet av att överföra text mellan svenska och somaliska. Arbetet präglas av noggrannhet, konsekvent terminologi och känsla för mottagaren, oavsett om det gäller ett myndighetsdokument, en undertext eller en bok.
+
+Vi tar oss an uppdrag åt myndigheter, organisationer, företag och privatpersoner. Varje uppdrag anpassas efter målgrupp och användningsområde.
+
+---
+
+## Översättning
 
 Bolagets huvudsakliga inriktning är **översättning till somaliska**, främst **från svenska**, men även från **engelska och arabiska**.
 
 Tjänsterna omfattar:
 
 - skriftlig översättning  
-- språklig granskning och textbearbetning  
-- anpassning av information till specificerade målgrupper  
+- översättning av ljud- och videomaterial  
+- undertexter och textfiler för översatt material  
 
-Utöver detta utförs **transkribering, translitterering och översättning av talat språk** från **ljud- och videomaterial**, med eller utan rörlig bild. Uppdragen kan avse såväl ordagrann nedskrivning av tal som språklig överföring från talat språk till skrift på annat språk.
+Vid översättning av talat språk kan arbetet omfatta transkribering av ljud- eller videomaterial innan texten översätts.
 
 Utförandet anpassas efter uppdragets karaktär, exempelvis avseende grad av bearbetning och dokumentationsnivå.
 
-👉 [Översättning och språktjänster](/tjanster/01-oversattning)
-
----
-
-## Bokutgivning
-
-Sakiinlaq AB bedriver även verksamhet inom **bokutgivning**, huvudsakligen i anslutning till språklig bearbetning och översättning av manus.
-
-Arbetet kan omfatta:
-
-- språklig redigering och kvalitetssäkring  
-- översättning av bokmanus  
-- rådgivning avseende egenutgivning  
-
-På webbplatsen publiceras även **guider om bokutgivning**, med saklig och praktiskt inriktad information.
-
-👉 [Bokutgivning](/tjanster/02-bokutgivning)
-
----
-
-## Tolkning
-
-Tolkning tillhandahålls i begränsad omfattning och främst i särskilda sammanhang där skriftliga och muntliga språkinsatser behöver samordnas.
+👉 [Översättning](/tjanster/01-oversattning)
 
 ---
 

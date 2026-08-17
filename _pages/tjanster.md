@@ -14,5 +14,4 @@ header:
 
 ## Våra tjänster
 
-Sakiinlaq AB bedriver verksamhet inom översättning, tolkning och bokutgivning
-mellan svenska och somaliska.
+Här erbjuds översättning mellan svenska och somaliska.

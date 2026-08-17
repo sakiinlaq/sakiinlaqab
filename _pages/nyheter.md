@@ -1,11 +1,8 @@
 ---
-layout: home
 title: Nyheter
+published: false
 permalink: /nyheter/
-paginate: true
-pagination:
-  enabled: true
-  category: nyheter
 entries_layout: list
-author_profile: false
+layout: home
+taxonomy: nyheter
 ---

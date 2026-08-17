@@ -1,0 +1,239 @@
+<div class="offert" markdown="0">
+<style>
+.offert{--of-base:#F5F2EB;--of-mantle:#FFFFFF;--of-surf0:#FBFAF6;--of-surf1:#E4E0D6;--of-text:#1C211E;--of-sub:#5C645F;--of-dim:#9A9F99;--of-accent:#14443F;--of-accent-hover:#2C6E63;--of-blue:#2C6E63;--of-green:#C7A06A;font-size:16px;color:var(--of-text)}
+.offert *{box-sizing:border-box}
+.offert__grid{display:grid;grid-template-columns:1fr 300px;gap:28px;align-items:start}
+@media (max-width:52em){.offert__grid{grid-template-columns:1fr}}
+.offert__notice{display:flex;gap:14px;background:var(--of-surf0);border-inline-start:3px solid var(--of-blue);border-radius:4px;padding:15px 17px;margin:0 0 30px}
+.offert__notice b{white-space:nowrap;font-size:.85rem;line-height:1.55}
+.offert__notice p{margin:0;font-size:.85rem;line-height:1.6;color:var(--of-text);text-wrap:pretty}
+.offert__field{margin-bottom:24px}
+.offert__label{display:block;font-size:.8rem;font-weight:600;margin-bottom:8px;color:var(--of-text)}
+.offert__hint{font-size:.75rem;color:var(--of-dim);margin-top:6px;line-height:1.5}
+.offert input[type=text],.offert input[type=email],.offert input[type=number],.offert select,.offert textarea{width:100%;padding:11px 13px;font:inherit;font-size:.9rem;color:var(--of-text);background:var(--of-mantle);border:1px solid var(--of-surf1);border-radius:4px;box-shadow:none;margin:0}
+.offert input:focus,.offert select:focus,.offert textarea:focus{outline:2px solid var(--of-blue);outline-offset:-1px;border-color:var(--of-blue)}
+.offert select:disabled{background:var(--of-surf0);color:var(--of-sub);cursor:not-allowed}
+.offert textarea{min-height:88px;resize:vertical;line-height:1.6}
+.offert__row{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media (max-width:40em){.offert__row{grid-template-columns:1fr}}
+.offert__choices{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+@media (max-width:40em){.offert__choices{grid-template-columns:1fr}}
+.offert__choice{position:relative;display:block;border:1px solid var(--of-surf1);background:var(--of-mantle);border-radius:4px;padding:12px 13px;cursor:pointer}
+.offert__choice input{position:absolute;opacity:0;pointer-events:none}
+.offert__choice-t{font-size:.85rem;font-weight:600;line-height:1.3}
+.offert__choice-s{font-size:.72rem;color:var(--of-sub);margin-top:4px;line-height:1.4}
+.offert__choice:has(input:checked){border-color:var(--of-green);background:#F5EADA}
+.offert__choice:has(input:focus-visible){outline:2px solid var(--of-blue);outline-offset:2px}
+.offert__aside{background:var(--of-surf0);border-radius:4px;padding:24px 22px;position:sticky;top:1.5em}
+.offert__kicker{font-size:.68rem;letter-spacing:.09em;font-weight:600;color:var(--of-dim);margin-bottom:16px}
+.offert__price{display:flex;align-items:baseline;gap:6px}
+.offert__price b{font-size:2rem;font-weight:600;line-height:1;letter-spacing:-.02em}
+.offert__price span{font-size:.8rem;color:var(--of-sub)}
+.offert__pricenote{font-size:.75rem;color:var(--of-dim);margin:6px 0 20px}
+.offert__spec{list-style:none;margin:0 0 18px;padding:0 0 18px;border-bottom:1px solid var(--of-surf1)}
+.offert__spec li{display:flex;justify-content:space-between;gap:12px;font-size:.8rem;line-height:1.5;padding:4px 0}
+.offert__spec li span:last-child{white-space:nowrap;font-variant-numeric:tabular-nums}
+.offert__asidetext{font-size:.78rem;line-height:1.65;color:var(--of-sub);margin:0 0 18px;text-wrap:pretty}
+.offert__mail{border-top:1px solid var(--of-surf1);padding-top:16px;font-size:.8rem;line-height:1.7}
+.offert__submit{display:inline-block;background:var(--of-accent);color:#fff;border:0;border-radius:4px;padding:13px 24px;font:inherit;font-size:.9rem;font-weight:600;cursor:pointer;white-space:nowrap}
+.offert__submit:hover{background:var(--of-accent-hover)}
+.offert__actions{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-top:8px}
+.offert__actions p{margin:0;font-size:.75rem;color:var(--of-dim);max-width:32ch;line-height:1.5}
+.offert__hidden{display:none}
+</style>
+
+<div class="offert__notice">
+  <b>Sekretess</b>
+  <p>Vi tar inte emot dokument via webbplatsen. Skicka materialet med e-post till <a href="mailto:{{ site.email }}">{{ site.email }}</a> när du skickat förfrågan.</p>
+</div>
+
+<form class="offert__grid" id="offertForm" novalidate>
+  <div>
+    <div class="offert__field">
+      <span class="offert__label">Uppdragstyp</span>
+      <div class="offert__choices">
+        <label class="offert__choice"><input type="radio" name="typ" value="oversattning" data-unit="ord" checked>
+          <span class="offert__choice-t">Översättning</span><span class="offert__choice-s">Skriven text</span></label>
+        <label class="offert__choice"><input type="radio" name="typ" value="undertextning" data-unit="min">
+          <span class="offert__choice-t">Undertextning</span><span class="offert__choice-s">Ljud och video</span></label>
+        <label class="offert__choice"><input type="radio" name="typ" value="granskning" data-unit="ord">
+          <span class="offert__choice-t">Granskning</span><span class="offert__choice-s">Befintlig text</span></label>
+      </div>
+    </div>
+
+    <div class="offert__row offert__field">
+      <div>
+        <label class="offert__label" for="of-fran">Från språk</label>
+        <select id="of-fran" name="fran">
+          <option>Svenska</option><option>Somaliska</option><option>Engelska</option><option>Arabiska</option>
+        </select>
+      </div>
+      <div>
+        <label class="offert__label" for="of-till">Till språk</label>
+        <select id="of-till" name="till" disabled>
+          <option>Somaliska</option><option>Svenska</option>
+        </select>
+        <div class="offert__hint" id="of-till-hint"></div>
+      </div>
+    </div>
+
+    <div class="offert__field">
+      <label class="offert__label" for="of-omfattning"><span id="of-omfattning-label">Ungefärligt antal ord</span></label>
+      <input type="number" id="of-omfattning" name="omfattning" min="1" step="1" value="1840" inputmode="numeric">
+      <div class="offert__hint" id="of-omfattning-hint">Ungefär räcker. Vi räknar exakt när vi fått materialet.</div>
+    </div>
+
+    <div class="offert__field">
+      <span class="offert__label">Önskad leverans</span>
+      <div class="offert__choices">
+        <label class="offert__choice"><input type="radio" name="leverans" value="normal" data-mult="1" checked>
+          <span class="offert__choice-t">Normal</span><span class="offert__choice-s">5 arbetsdagar</span></label>
+        <label class="offert__choice"><input type="radio" name="leverans" value="express" data-mult="1.4">
+          <span class="offert__choice-t">Express</span><span class="offert__choice-s">2 dagar · +40 %</span></label>
+        <label class="offert__choice"><input type="radio" name="leverans" value="flexibel" data-mult="0.9">
+          <span class="offert__choice-t">Flexibel</span><span class="offert__choice-s">10 dagar · −10 %</span></label>
+      </div>
+    </div>
+
+    <div class="offert__row offert__field">
+      <div>
+        <label class="offert__label" for="of-namn">Namn</label>
+        <input type="text" id="of-namn" name="namn" placeholder="För- och efternamn" required>
+      </div>
+      <div>
+        <label class="offert__label" for="of-org">Organisation</label>
+        <input type="text" id="of-org" name="organisation" placeholder="Valfritt">
+      </div>
+    </div>
+
+    <div class="offert__field">
+      <label class="offert__label" for="of-epost">E-post</label>
+      <input type="email" id="of-epost" name="epost" placeholder="namn@exempel.se" required>
+    </div>
+
+    <div class="offert__field">
+      <label class="offert__label" for="of-meddelande">Kort om uppdraget</label>
+      <textarea id="of-meddelande" name="meddelande" placeholder="Dokumenttyp, målgrupp, leveransformat, deadline."></textarea>
+    </div>
+
+    <div class="offert__actions">
+      <button type="submit" class="offert__submit">Skicka förfrågan</button>
+      <p>Öppnar ett färdigt e-postmeddelande i ditt e-postprogram. Du kan bifoga dokumentet direkt där. Inga uppgifter lagras på webbplatsen.</p>
+    </div>
+  </div>
+
+  <aside class="offert__aside">
+    <div class="offert__kicker">RIKTPRIS</div>
+    <div class="offert__price"><b id="of-summa">4 600</b><span>kr</span></div>
+    <p class="offert__pricenote">exkl. moms · ej bindande</p>
+    <ul class="offert__spec" id="of-spec"></ul>
+    <p class="offert__asidetext">Slutlig offert lämnas av {{ site.author.name }} efter genomgång av materialet, normalt inom ett arbetsdygn.</p>
+    <div class="offert__mail">
+      <div class="offert__kicker">SKICKA MATERIAL</div>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+      Ange gärna ärendetyp i ämnesraden.
+    </div>
+  </aside>
+</form>
+
+<script>
+(function () {
+  var form = document.getElementById('offertForm');
+  if (!form) return;
+
+  var PRIS = {
+    oversattning: { pris: 2.50, unit: 'ord', label: 'Översättning' },
+    granskning:   { pris: 1.10, unit: 'ord', label: 'Språkgranskning' },
+    undertextning:{ pris: 95,   unit: 'min', label: 'Undertextning' }
+  };
+  var MOTTAGARE = '{{ site.email }}';
+
+  var nf = function (n, d) {
+    return Number(n).toLocaleString('sv-SE', { minimumFractionDigits: d || 0, maximumFractionDigits: d || 0 });
+  };
+  var val = function (name) {
+    var el = form.querySelector('[name="' + name + '"]:checked') || form.querySelector('[name="' + name + '"]');
+    return el ? el.value : '';
+  };
+
+  function synkaSprak() {
+    var fran = document.getElementById('of-fran').value;
+    var till = document.getElementById('of-till');
+    var hint = document.getElementById('of-till-hint');
+    var malSprak = fran === 'Somaliska' ? 'Svenska' : 'Somaliska';
+
+    till.value = malSprak;
+    Array.prototype.forEach.call(till.options, function (o) {
+      o.disabled = o.value !== malSprak;
+    });
+    hint.textContent = fran === 'Somaliska'
+      ? 'Från somaliska översätts endast till svenska.'
+      : 'Från ' + fran.toLowerCase() + ' översätts endast till somaliska.';
+  }
+
+  function berakna() {
+    var typ = val('typ');
+    var cfg = PRIS[typ];
+    var mult = parseFloat(form.querySelector('[name="leverans"]:checked').dataset.mult);
+    var mangd = Math.max(0, parseFloat(document.getElementById('of-omfattning').value) || 0);
+    var rader = [];
+    var summa = 0;
+
+    var grund = Math.round(mangd * cfg.pris * mult);
+    summa += grund;
+    rader.push([cfg.label + ' ' + nf(mangd) + ' ' + cfg.unit, nf(grund)]);
+
+    if (mult !== 1) rader.push([mult > 1 ? 'Expresstillägg inräknat' : 'Flexibel rabatt inräknad', mult > 1 ? '+40 %' : '−10 %']);
+
+    document.getElementById('of-summa').textContent = nf(summa);
+    document.getElementById('of-spec').innerHTML = rader.map(function (r) {
+      return '<li><span>' + r[0] + '</span><span>' + r[1] + '</span></li>';
+    }).join('');
+
+    var unit = cfg.unit;
+    document.getElementById('of-omfattning-label').textContent =
+      unit === 'min' ? 'Ungefärlig speltid i minuter' : 'Ungefärligt antal ord';
+    document.getElementById('of-omfattning-hint').textContent =
+      unit === 'min' ? 'Avrundat uppåt till hel minut.' : 'Ungefär räcker. Vi räknar exakt när vi fått materialet.';
+
+    return summa;
+  }
+
+  document.getElementById('of-fran').addEventListener('change', synkaSprak);
+  synkaSprak();
+
+  form.addEventListener('input', berakna);
+  form.addEventListener('change', berakna);
+  berakna();
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (!form.checkValidity()) { form.reportValidity(); return; }
+    var summa = berakna();
+    var cfg = PRIS[val('typ')];
+    var typLabel = cfg.label;
+    var unit = cfg.unit;
+    var rader = [
+      'Uppdragstyp: ' + typLabel,
+      'Språk: ' + val('fran') + ' → ' + val('till'),
+      'Omfattning: ' + document.getElementById('of-omfattning').value + ' ' + unit,
+      'Leverans: ' + val('leverans'),
+      'Riktpris enligt webbplatsen: ' + nf(summa) + ' kr exkl. moms',
+      '',
+      'Namn: ' + val('namn'),
+      'Organisation: ' + (val('organisation') || '–'),
+      'E-post: ' + val('epost'),
+      '',
+      'Om uppdraget:',
+      val('meddelande') || '–',
+      '',
+      'Materialet skickas separat i detta e-postmeddelande eller efter er bekräftelse.'
+    ];
+    var subject = 'Offertförfrågan – ' + typLabel + ' ' + val('fran') + '–' + val('till');
+    window.location.href = 'mailto:' + MOTTAGARE +
+      '?subject=' + encodeURIComponent(subject) +
+      '&body=' + encodeURIComponent(rader.join('\n'));
+  });
+})();
+</script>
+</div>

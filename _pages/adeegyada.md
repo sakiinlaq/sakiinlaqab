@@ -12,4 +12,4 @@ header:
     show_overlay_excerpt: false
 ---
 
-Sakiinlaq AB adeegyada ay bixixso waxaa ka mid ah:
+Sakiinlaq AB adeegyada ay bixiso waxaa ka mid ah:

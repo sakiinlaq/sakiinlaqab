@@ -1,47 +1,44 @@
 ---
 title: Sakiinlaq AB
 layout: splash
-excerpt: > 
- Professionella språktjänster<br>
+excerpt: >
+  Översättning mellan svenska och somaliska.<br>
+  Professionella språktjänster<br>
   <em>Adeegyo luqadeed xirfad ku dheehan</em>
 permalink: /
 
 header:
   overlay_image: /assets/images/teeb.jpg
 
-gallery:
-  - image_path: /assets/images/tjanster-landing-svenska.png
-    title: Tjänster på svenska
-    alt: "Tjänster på svenska"
-    url: /tjanster/
-  - image_path: /assets/images/adeegyada-landing-soomaali.png
-    title: Adeegyada - Soomaali
-    alt: "Adeegyada af Soomaali"
-    url: /adeegyada/
-
-
 feature_row:
-  - title: Tjänster - Svenska
-    image_path: /assets/images/tjanster-landing-svenska.png
-    excerpt: >
-     Sakiinlaq AB erbjuder översättning, tolkning och bokutgivning.
-     Verksamheten riktar sig till offentlig sektor, organisationer
-     och privatpersoner.
-    url: /tjanster
+  - image_path: /assets/images/translation.jpg
+    alt: "Översättning på svenska"
+    title: "Svenska"
+    excerpt: "Läs om vår översättning mellan svenska och somaliska – dokument, ljud och video."
+    url: /tjanster/
+    btn_label: "Till tjänster"
     btn_class: "btn--primary"
-    btn_label: "Läs mer"
-
-  - title: Adeegyada - Soomaali
-    image_path: /assets/images/adeegyada-landing-soomaali.png
-    excerpt: > 
-      Sakiinlaq AB waxay bixisaa adeegyada turjumidda iyo daabacaadda buugaagta. Adeegyadu waxay u furan yihiin shakhsiyaad, hay’adaha gaarka iyo kuwa dowliga ah.
-    url: /adeegyada
+  - image_path: /assets/images/tolkning.jpg
+    alt: "Adeegyada af Soomaali"
+    title: "Soomaali"
+    excerpt: "Akhri wax ku saabsan adeegyada turjumaadda ee u dhexeeya af Iswiidhish iyo af Soomaali."
+    url: /adeegyada/
+    btn_label: "Adeegyada"
     btn_class: "btn--primary"
-    btn_label: "Sii akhri"
 ---
+
+## Om Sakiinlaq AB
+
+Sakiinlaq AB är en språkbyrå specialiserad på översättning mellan
+svenska och somaliska. Myndigheter, organisationer, företag och
+privatpersoner får hjälp med korrekt och konsekvent översättning av dokument samt
+undertextning av ljud och video.
 
 ## Tjänster
 
-Information om våra tjänster finns tillgänglig på svenska och somaliska.
+Välj språk för att läsa mer om vad vi erbjuder.
 
-{% include gallery  %}
+{% include feature_row %}
+
+[Kontakta oss för offert](/kontakta-oss/){: .btn .btn--primary}
+[Läs om översättning](/tjanster/01-oversattning/){: .btn .btn--inverse}
