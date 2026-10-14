@@ -16,9 +16,24 @@
 {% endcapture %}
 {% assign video_src = video_src | strip %}
 
-<!-- Courtesy of embedresponsively.com -->
+{%- if page.locale == "so-SO" -%}
+  {%- assign vid_text = "Muuqaalka waxaa laga soo raraa adeeg dibadeed. Markaad furto, adeeggaas wuxuu heli doonaa cinwaanka IP-gaaga, wuxuuna dhigi karaa kukiyo." -%}
+  {%- assign vid_btn = "Daar muuqaalka" -%}
+  {%- assign vid_policy = "/so/asturnaanta/" -%}
+  {%- assign vid_more = "Wax badan ka akhri" -%}
+{%- else -%}
+  {%- assign vid_text = "Videon hämtas från en extern tjänst. När du startar den får tjänsten din IP-adress och kan sätta kakor." -%}
+  {%- assign vid_btn = "Visa videon" -%}
+  {%- assign vid_policy = "/integritetspolicy/" -%}
+  {%- assign vid_more = "Läs mer" -%}
+{%- endif -%}
+
+<!-- Courtesy of embedresponsively.com – laddas först efter klick (inga kakor från tredje part i förväg) -->
 {% unless video_src == "" %}
-  <div class="responsive-video-container">
-    <iframe src="{{ video_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  <div class="responsive-video-container video-consent" data-src="{{ video_src }}">
+    <div class="video-consent__placeholder" style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.75em;padding:1em;text-align:center;background:#E3E8E3;font-size:.85em">
+      <p style="margin:0;max-width:32em">{{ vid_text }} <a href="{{ vid_policy | relative_url }}">{{ vid_more }}</a></p>
+      <button type="button" class="btn btn--primary" onclick="(function(b){var c=b.closest('.video-consent');var f=document.createElement('iframe');f.src=c.dataset.src;f.setAttribute('frameborder','0');f.setAttribute('allowfullscreen','');f.setAttribute('allow','autoplay; fullscreen');c.replaceChildren(f);})(this)">{{ vid_btn }}</button>
+    </div>
   </div>
 {% endunless %}

@@ -16,7 +16,7 @@ og_image: "/assets/images/logo-mark.png"
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : "custom"  # samtyckesstyrd gtag, se _includes/analytics-providers/custom.html
   google:
     tracking_id          : "G-CPCWK3E46V"
     anonymize_ip         : true
