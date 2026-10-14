@@ -42,9 +42,7 @@ Boggaga qaarkood waxaa ku jira muuqaal laga keenay Google Drive. Lama soo raro i
 
 ## Marka aad nala soo xiriirto
 
-Bogga [Nala soo xiriir](/so/nala-soo-xiriir/) waxaa ku jira foom ka yimid Microsoft Forms. Foomka lama soo raro ilaa aad adigu gujiso badhanka furaya. Markaas Microsoft ayaa heli doonta xogta aad foomka ku qorto iyo xog farsamo, waxaana laga yaabaa in Microsoft ay dhigto kukiyo.
-
-Xogta aad noogu soo dirto e-mail ama foomka, sida magaca, cinwaanka e-mailka iyo faahfaahinta shaqada, waxaan u isticmaalnaa inaan kuu jawaabno oo aan shaqada u diyaarinno oo u fulinno. Waxaan kaydinnaa inta loo baahan yahay iyo inta sharciga xisaabaadku dalbado. Saldhigga sharciga: tallaabooyin ka hor iyo fulinta heshiis (qodobka 6.1 b ee GDPR) iyo waajib sharci (qodobka 6.1 c ee GDPR).
+Waxaad nagala soo xiriiri kartaa e-mail. Degelku ma laha foom xiriir. Xogta aad noogu soo dirto, sida magaca, cinwaanka e-mailka iyo faahfaahinta shaqada, waxaan u isticmaalnaa inaan kuu jawaabno oo aan shaqada u diyaarinno oo u fulinno. Waxaan kaydinnaa inta loo baahan yahay iyo inta sharciga xisaabaadku dalbado. Saldhigga sharciga: tallaabooyin ka hor iyo fulinta heshiis (qodobka 6.1 b ee GDPR) iyo waajib sharci (qodobka 6.1 c ee GDPR).
 
 ## Xuquuqdaada
 

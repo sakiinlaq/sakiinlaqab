@@ -41,9 +41,7 @@ På vissa sidor finns en video från Google Drive. Den laddas först när du kli
 
 ## När du kontaktar oss
 
-På den somaliska kontaktsidan finns ett formulär från Microsoft Forms. Det laddas först när du själv klickar för att öppna det. Då tar Microsoft emot det du fyller i och tekniska uppgifter, och Microsoft kan sätta kakor.
-
-Offertformuläret på den svenska sidan skickar inget själv. Det öppnar ett e-postmeddelande i ditt eget e-postprogram. De uppgifter du skickar till oss via e-post, till exempel namn, e-postadress och uppgifter om uppdraget, använder vi för att svara dig och för att ta fram och genomföra uppdraget. Vi sparar dem så länge det behövs för det och för att uppfylla bokföringskrav. Rättslig grund: åtgärder före och för att fullgöra avtal (artikel 6.1 b GDPR) samt rättslig förpliktelse (artikel 6.1 c GDPR).
+Du kontaktar oss via e-post. Webbplatsen har inga kontaktformulär. De uppgifter du skickar till oss, till exempel namn, e-postadress och uppgifter om uppdraget, använder vi för att svara dig och för att ta fram och genomföra uppdraget. Vi sparar dem så länge det behövs för det och för att uppfylla bokföringskrav. Rättslig grund: åtgärder före och för att fullgöra avtal (artikel 6.1 b GDPR) samt rättslig förpliktelse (artikel 6.1 c GDPR).
 
 ## Dina rättigheter
 
